@@ -6,7 +6,8 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-events = JSON.parse(File.read "#{Rails.root}/db/seeds/events.json").map!{|event| Hashie::Mash.new event }
-events.each { |event_attrs|
-  Event.build_with_hackerleague(event_attrs).save!
-}
+# API cache seed
+#events = JSON.parse(File.read "#{Rails.root}/db/seeds/events.json").map!{|event| Hashie::Mash.new event }
+#events.each { |event_attrs|
+#  Event.build_with_hackerleague(event_attrs).save!
+#}

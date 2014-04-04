@@ -1,0 +1,5 @@
+$('.events-list').append('#{escape_javascript(render partial: 'shared/events', locals: { events: @events, next_page: next_page})}');
+$('a.show-more-button').attr('href', '#{events_path page: next_page}');
+ 
+- unless next_page
+  $('a.show-more-button').remove();

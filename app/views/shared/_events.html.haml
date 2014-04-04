@@ -1,0 +1,8 @@
+- events.each do |event|
+  .event-item
+    .event-item-logo{style: "background-image: url(#{event.logo})"}
+    .event-item-content
+      = link_to event.url, class: 'event-item-header' do
+        .event-item-name= event.name
+      .event-item-date= friendly_date event.start_time, 'America/Los_Angeles'
+      .event-item-description= truncate(event.description, length: 140) { link_to "Continue", "#" }

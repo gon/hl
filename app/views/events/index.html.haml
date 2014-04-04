@@ -1,0 +1,4 @@
+%h1 Upcoming Hackathons
+.events-list
+  = render :partial => 'shared/events', :locals => { :events => @events }
+= link_to 'show more', events_path(:page => next_page), :class => 'show-more-button', :remote => true if next_page

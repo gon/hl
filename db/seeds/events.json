@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "531fd2e84d6174029f000003",
+    "name": "Berklee Music Therapy Hack ",
+    "slug": "berklee-music-therapy-hack",
+    "description": "Build tools to empower everyone to make music! Berklee is throwing an all-night hackathon to catalyze innovation in music therapy! $5000 grand prize! \r\n\r\n[Watch introduction video](http://www.youtube.com/embed/2XiswIWv88k)\r\n\r\n### What?\r\n\r\nMusic therapists help people access music, regardless of their abilities or disabilities, and use music to help them communicate, express themselves, and enhance their lives. This first-of-a-kind event will create a space for hackers to develop innovative tools for music therapists to use in therapeutic and healthcare settings. This Berklee Music Therapy Hack--cohosted by Berklee College of Music and hack/reduce--aims to create a new vision of what music therapy does and can do.\r\n\r\n### How?\r\n\r\nPracticing music therapists and music therapy students will present hack participants with problems to be solved in real-life settings. Assisted by a group of expert mentors, teams will have 24 hours to prototype innovative ideas using state-of-the-art technology and tools. Teams will then present their projects to a distinguished panel of judges, who will ultimately award a $5,000 cash prize for the best hack. \r\n\r\n### When?\r\n\r\n3pm Friday, March 28, 2014 till\r\n8pm Saturday, March 29, 2014\r\n\r\n### Where?\r\n\r\nhack/reduce\r\n275 3rd Street\r\nCambridge, MA 02142\r\n\r\n### What should I build?\r\n\r\nCurious about the needs of music therapy? Check out the [project wish list](http://www.berklee.edu/music-therapy/berklee-music-therapy-hack-teams) made by Berklee's music therapy students!  \r\n",
+    "external_url": "http://www.berklee.edu/mthack",
+    "state": "hacking",
+    "start_time": "2014-03-28T19:00:00Z",
+    "end_time": "2015-03-30T00:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/531fd2e84d6174029f000003/original.jpg?1394594534",
+    "students_only": false,
+    "total_hackers": 11,
+    "total_hacks": 9,
+    "location": {
+      "city": "Cambridge",
+      "state": "MA",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/berklee-music-therapy-hack"
+  },
+  {
+    "id": "5310f196a2976e15cf000001",
+    "name": "HackRPI",
+    "slug": "hackrpi",
+    "description": "Very first hackathon hosted at Rensselaer Polytechnic Institute",
+    "external_url": "hack.rpi.edu",
+    "state": "pending",
+    "start_time": "2014-11-15T19:00:00Z",
+    "end_time": "2014-11-16T19:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5310f196a2976e15cf000001/original.jpg?1393619348",
+    "students_only": false,
+    "total_hackers": 6,
+    "total_hacks": 0,
+    "location": {
+      "city": "Troy",
+      "state": "NY",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/hackrpi"
+  },
+  {
+    "id": "531f16e3c44207cac8000004",
+    "name": "Data Privacy Legal Hackathon: 2",
+    "slug": "data-privacy-legal-hackathon-2",
+    "description": "\r\nWe invite you to compete in a weekend-long hackathon to create tools that solve common legal problems in the field of data privacy, to be hosted in Berlin, and other locations (e.g. Bay Area, New York City, Boston MIT,  London.)\r\n\r\n2014 is a landmark year in the public's awareness of problems in data privacy. Edward Snowden, Big Data, Open Data, Control of Personal Data and a few other key phrases come to mind. \r\n\r\nThere are many new issues surrounding data privacy that continue to increase as the Internet of things continues to grow.\r\n\r\nRegulators and innovators across the world have identified data-privacy problems but have yet to develop actual tools to effectively address them. Join us and 100 fellow hackers  as we compete to concept and deliver these tools under extreme time constraints.\r\n\r\nSounds geeky and fun. How do I get started?\r\n\r\nIf you haven't registered for a location, and you want to meet others in person, register for a location here!\r\n\r\nTake a look at the current projects.\r\n\r\nJoin a team, and start brainstorming.\r\n\r\nWhen you have a chance, check out the rules for submission.\r\n\r\n",
+    "external_url": "",
+    "state": "pending",
+    "start_time": "2014-07-12T08:00:00Z",
+    "end_time": "2014-07-13T17:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/531f16e3c44207cac8000004/original.png?1394546579",
+    "students_only": false,
+    "total_hackers": 2,
+    "total_hacks": 0,
+    "location": {
+      "city": "Berlin",
+      "state": "Ger",
+      "country": "Germany"
+    },
+    "url": "http://hackerleague.org/hackathons/data-privacy-legal-hackathon-2"
+  },
+  {
+    "id": "5332981314dab3089e000005",
+    "name": "GovHackTest",
+    "slug": "govhacktest",
+    "description": "A site for the Australian GovHack team to test the platform for whether it suits our national competition needs :)",
+    "external_url": "http://govhack.org/",
+    "state": "pending",
+    "start_time": "2014-07-11T09:31:00Z",
+    "end_time": "2014-07-13T09:31:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5332981314dab3089e000005/original.jpg?1395824656",
+    "students_only": false,
+    "total_hackers": 1,
+    "total_hacks": 0,
+    "location": {
+      "city": "Canberra",
+      "state": "ACT",
+      "country": "Australia"
+    },
+    "url": "http://hackerleague.org/hackathons/govhacktest"
+  },
+  {
+    "id": "533150ba65ce6cfa7d000003",
+    "name": "Pan-Pearson Hackathon",
+    "slug": "pan-pearson-hackathon",
+    "description": "##Global Pearson Innovation Hackathon\r\n\r\n#### Announcing the Pan-Pearson Hackathon 2014  \r\n\r\nHave you ever wondered what cross-pollinating developer insight across Pearson (i.e. FT, Penguin, Education) could produce? \r\n\r\nHave you wanted to mash up existing Pearson APIs? Are there ideas you’ve hoped to build into Pearson products but you haven’t had the time to do so? \r\n\r\n\r\nFind developers, designers, product people, UX designers and the person who reels off the slickest product pitches and get ready to hack...",
+    "external_url": "https://neo.pearson.com/groups/pan-pearson-hackathon",
+    "state": "pending",
+    "start_time": "2014-06-04T08:00:00Z",
+    "end_time": "2014-06-08T15:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/533150ba65ce6cfa7d000003/original.png?1395740852",
+    "students_only": false,
+    "total_hackers": 5,
+    "total_hacks": 0,
+    "location": {
+      "city": "London",
+      "state": "London",
+      "country": "United Kingdom"
+    },
+    "url": "http://hackerleague.org/hackathons/pan-pearson-hackathon"
+  },
+  {
+    "id": "5307b9f751441cdc1b000009",
+    "name": "TADHack",
+    "slug": "tadhack",
+    "description": "Discover the latest ways to add communications to your application, service or business.  Meet the international community of telecom app developers.  Come join the ONLY GLOBAL MEETING place for developers who want to learn, share, code and create using the tools and technologies available in telecommunications.  Go to www.tadhack.com.\r\n\r\nAnyone can join in, even if you are physically not there.  TADHack will be live-streamed from Madrid, enabling teams to compete remotely for the $20k on offer.\r\n\r\nYou can work on your ideas before the event, and generate ideas at the event from all the networking.  We’re not forcing you to work through the night; you can work at home on an idea and present it on Saturday either in Madrid or remotely.  We know for many developers with families it’s hard to take a whole weekend away, so we’re making it just the Saturday. \r\n\r\nWe’ll be running webinars on the development themes before the event, and have lots of content on the TADHack site, so you have a chance to think up ideas beforehand, so there’s no pressure during the event. We would prefer you have fun, network, and discover lots of exciting possibilities made possible through TADHack.\r\n",
+    "external_url": "www.tadhack.com",
+    "state": "pending",
+    "start_time": "2014-06-06T14:00:00Z",
+    "end_time": "2014-06-07T22:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5307b9f751441cdc1b000009/original.gif?1393015283",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Madrid",
+      "state": "",
+      "country": "Spain"
+    },
+    "url": "http://hackerleague.org/hackathons/tadhack"
+  },
+  {
+    "id": "5317850075e9185830000001",
+    "name": "Esri Climate Resilience App Challenge 2014",
+    "slug": "esri-climate-resilience-app-challenge-2014",
+    "description": "In June 2013 as part of [The Climate Action Plan](http://www.whitehouse.gov/sites/default/files/image/president27sclimateactionplan.pdf), President Obama announced the Climate Data Initiative, an effort to encourage tech innovators to use data about climate change risks and impacts in compelling ways to help citizens, businesses, and communities makes smart choices in the face of climate change. \r\n\r\nHow are changes in weather patterns going to impact the United States? How do we start preparing for these changes? What makes cities more resilient to climate change? Can you think of ways that we can solve these problems using geospatial data? You are encouraged to explore all aspects of the hurdles of climate resilience – from tools to manage drought, wildfires, and hurricanes – to sustainable infrastructure, smart cities, and energy efficient buildings. \r\n\r\nEsri wants to help our President reach this goal. We encourage you to develop game changing apps that promote climate resilience. We continue to try to make a difference in the world and we know you do too. That’s why we’re challenging you to get creative for this important initiative! \r\n\r\n",
+    "external_url": "http://www.esri.com/",
+    "state": "hacking",
+    "start_time": "2014-03-09T15:00:00Z",
+    "end_time": "2014-06-03T00:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5317850075e9185830000001/original.gif?1394228678",
+    "students_only": false,
+    "total_hackers": 72,
+    "total_hacks": 5,
+    "location": {
+      "city": "U.S. Cities and Counties",
+      "state": "Everywhere!",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/esri-climate-resilience-app-challenge-2014"
+  },
+  {
+    "id": "52deaf41a0723d5f67000007",
+    "name": "Hack4Austin 2014",
+    "slug": "hack4austin-2014",
+    "description": "**Hack4Austin is a collaboration with the National Day of Civic Hacking. We will be building apps for Austin kids. We are working with non-profits to identify needs, gaps and apps with possibilities.** \r\n\r\n**Location:**\r\nTech Ranch, Austin\r\n\r\n**Dates:**\r\nMay 30 - June 1\r\n\r\n**Who:**\r\nInnovators, Hackers, Developers, Designers, Subject Matter Experts and anyone with a great idea to benefit Austin Kids!\r\n\r\n**How:**\r\nIf you are a company – Event Sponsor, API Sponsor, Prize Sponsor, In-kind Sponsor\r\n\r\nIf you are a hacker / designer or aspiring hacker / designer- Register, Participate, Compete, Ideate, Brainstorm, mentor, learn\r\n\r\n**Why:**\r\nIf you are a company – Event Sponsor, API Sponsor, Prize Sponsor, In-kind Sponsor\r\n\r\nIf you are a hacker / designer or aspiring hacker / designer- Register, Participate, Compete, Ideate, Brainstorm, mentor, learn",
+    "external_url": "under construction",
+    "state": "pending",
+    "start_time": "2014-05-30T23:30:00Z",
+    "end_time": "2014-06-01T21:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52deaf41a0723d5f67000007/original.gif?1390325563",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/hack4austin-2014"
+  },
+  {
+    "id": "513e325d94be620e7200003d",
+    "name": "Hack4Colorado 2014",
+    "slug": "hack4colorado-2014",
+    "description": "On the weekend of May 30th 2014, designers, coders, hackers and creative people will descend on Galvanize to hack and build apps to improve Colorado.\r\n\r\nLocal government agencies and public organizations will liberate their data, and private companies from throughout the community will provide APIs, people, and other resources, to help you build awesome tech for societal good. \r\n\r\nWe'll be working with local non-profits solving their technology problems. \r\n\r\nWe'll also see what some local kids are doing with technology. \r\n\r\nRepresent Colorado, during the National Day Of Civic Hacking and solve challenges relevant to your neighborhoods, cities, and state. \r\n\r\n\r\nWHERE?\r\nGalvanize\r\n1062 Delaware Street\r\nDenver, CO.\r\n",
+    "external_url": "www.hack4colorado.com",
+    "state": "pending",
+    "start_time": "2014-05-30T23:30:00Z",
+    "end_time": "2014-06-01T21:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/513e325d94be620e7200003d/original.jpg?1366845781",
+    "students_only": false,
+    "total_hackers": 65,
+    "total_hacks": 4,
+    "location": {
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/hack4colorado-2014"
+  },
+  {
+    "id": "529e500096b5f88096000003",
+    "name": "MassHack",
+    "slug": "masshack",
+    "description": "Hackathons are all about innovation. Innovation fuels the economy and helps solve some of the day’s greatest challenges. We need more innovation and to help drive this we are creating one of the largest crowd-funded and crowd-sourced programs – the Massachusetts Hackathon 2014.\r\n\r\nDeveloped to be able to bring competitive teams of one-to-four developers into a structured 48-hour applications development environment, MassHack 2014 brings the best of the Left Coast’s hackathons together with the venture capital and academic communities of the Right Coast. The Boston metropolitan area has long been home to cool and creative companies, and now we have a world-class competition to challenge the best and brightest.\r\n\r\n<b>Location: </b> Hynes Convention Center, Boston, MA\r\n<b>When: </b> May 16 - 18 2014\r\n\r\nYou need to purchase a ticket. To purchase a ticket goto [http://masshack.eventbrite.com] or purchase the team perk from our Indiegogo Campaign [http://igg.me/at/masshack/x/4209072]",
+    "external_url": "http://masshack.com",
+    "state": "pending",
+    "start_time": "2014-05-16T12:00:00Z",
+    "end_time": "2014-05-19T01:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/529e500096b5f88096000003/original.png?1386106875",
+    "students_only": false,
+    "total_hackers": 13,
+    "total_hacks": 0,
+    "location": {
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/masshack"
+  },
+  {
+    "id": "52581a65da31105b89000016",
+    "name": "New York Dental Hackathon",
+    "slug": "new-york-dental-hackathon",
+    "description": "Developing Hacks for Dentists, Dental Office, Dental Images Centers, Dental Laboratories and Dental Team.\r\n\r\nDentists, 3D Volumetric Image Centers and Laboratories had been using computer protocols such as DDX Dental Data Exchange to improve Machine to mMachine communication and software platforms. \r\n\r\nDigital Dentistry is use every day and mobile and cloud devices are becoming important part of the dentist workflow in platforms like iphone, android, windows mobile, linux mobile, blackberry, etc.\r\n\r\nCome and meet with dentists, metal ceramic experts, programmers, developers, designers, technicians to develop the next generation dental applications for any platform.\r\n\r\nWhat to Bring:\r\n\r\nYour laptop and cables.\r\n\r\nThe hardware platform(s) you are developing for, such as tablets, smartphones, NFC chips, Google TV, Apple TV, Roku, etc.\r\n\r\nCameras, microphones and any other equipment you think you will need, if you are planning to create original video content on-site for your app (however, we will have video assets available, if you would prefer to use them).\r\n\r\nAny software and apps you need in order to create your app or front-end design.\r\n\r\nIf you are already planning out your app in advance of the Hackathon, any additional assets you need in order to implement it (video, audio, images, vector art, wireframes, mockups, etc.)..\r\n\r\nAnything else you need for a marathon of creativity and innovation!",
+    "external_url": "http://rafaelvasqu75.wix.com/dentalhackathonnyc",
+    "state": "pending",
+    "start_time": "2014-05-16T23:00:00Z",
+    "end_time": "2014-05-18T22:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52581a65da31105b89000016/original.jpg?1396463687",
+    "students_only": false,
+    "total_hackers": 35,
+    "total_hacks": 2,
+    "location": {
+      "city": "New York",
+      "state": "New York",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/new-york-dental-hackathon"
+  },
+  {
+    "id": "533c588cce9582c423000008",
+    "name": "AEC Technology Hackathon 2014",
+    "slug": "aec-technology-hackathon-2014",
+    "description": "In conjunction with this year's AEC Technology Symposium, Thornton Tomasetti is organizing a weekend-long hackathon. The aim of this event is to develop two topics:\r\n\r\n- Web-based applications that enhance design and collaboration processes for the AEC industry.\r\n\r\n- Tools and processes that promote data-driven building design.\r\n\r\nAll APIs and modeling platforms, as well as all data sets, are welcome. A number of industry Leaders will be present to support the hackathon participants in exploring these topics.\r\n",
+    "external_url": "http://core.thorntontomasetti.com/aec-technology-symposium-2014/",
+    "state": "pending",
+    "start_time": "2014-05-17T13:00:00Z",
+    "end_time": "2014-05-18T20:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/533c588cce9582c423000008/original.jpg?1396463753",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "New York",
+      "state": "NY",
+      "country": "US"
+    },
+    "url": "http://hackerleague.org/hackathons/aec-technology-hackathon-2014"
+  },
+  {
+    "id": "52b01bc14c09e9f03c000004",
+    "name": "Hackathon 10",
+    "slug": "hackathon-10",
+    "description": "//SEIBERT/MEDIA celebrates its 10th hackathon with the introduction of a hackathon platform, hackerleague.org. Our company-wide event is open to our employees and friends of our organization. \r\n\r\nThere will be a marketplace one week prior to the hackathon where all submissions will be briefly presented and questions of participants will be answered. Teams form in self-organized manner in the week leading up to the hackathon. \r\n\r\nThe hackathon itself starts on Thursday, 08 May 2014, at 03:00 PM CET and runs 24 hours. Teams participating in the event will have to be present their results in a short review on Friday, 09 May 2014, at 03:00 PM CET in the lounge area of our office. Presentations should be no longer than five minutes. \r\n\r\nIn the aftermath we usually have a short party to celebrate the results and the art of hacking. Details will be announced later. ",
+    "external_url": "blog.seibert-media.net",
+    "state": "pending",
+    "start_time": "2014-05-08T13:00:00Z",
+    "end_time": "2014-05-09T13:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52b01bc14c09e9f03c000004/original.jpg?1387273151",
+    "students_only": false,
+    "total_hackers": 1,
+    "total_hacks": 0,
+    "location": {
+      "city": "Wiesbaden",
+      "state": "Hessen",
+      "country": "Germany"
+    },
+    "url": "http://hackerleague.org/hackathons/hackathon-10"
+  },
+  {
+    "id": "5316db3c17ca9a1283000007",
+    "name": "Highground Hackers: Urban Hack",
+    "slug": "highground-hackers-urban-hack",
+    "description": "Urban Hack 2014\r\n\r\nAt this weekend hackathon, Highground Hackers will work with subject matter experts and civic non-profits to develop technology solutions to address issues revolving violence reduction, mindfulness, crime, and other urban issues. Often times, ideas and prototypes conjured up at hackathons are ephemeral, in order to keep these projects alive, Urban Hack is focusing on applications and services that can be continually used by the beneficiaries after the hackathon.\r\n\r\nOur goal is for Urban Hack to instill more mindful thought in the SF developer community. We will also provide complimentary yoga and meditation sessions, professional development sessions, and workshops throughout the event. Amidst the hacking is a Saturday night celebration.\r\n\r\nIssue List:\r\n\r\n1. Mindfulness\r\nEmpathy\r\nSelf-Awrencess \r\nStress Management\r\n\r\n2. Violence Reduction\r\nYouth Violence\r\nDomestic Violence\r\n\r\n3. Crime\r\nPersonal Safety\r\nAwareness & Education\r\n\r\n4. Urban Issues\r\nHomelessness\r\nUrban Management\r\nResource tracking\r\n\r\nPlease remember to get your tickets on Eventbrite:\r\n\r\nhttp://www.eventbrite.com/e/highground-hackers-urban-hack-tickets-9425348471?aff=es2&rank=1&sid=efa8a2baae3511e3ab4f12313d095975\r\n\r\nEvent Location: \r\nGeekdom SF (Rackspace): 620 Folsom St, San Francisco, CA 94107",
+    "external_url": "",
+    "state": "pending",
+    "start_time": "2014-05-03T16:00:00Z",
+    "end_time": "2014-05-05T01:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5316db3c17ca9a1283000007/original.png?1395019336",
+    "students_only": false,
+    "total_hackers": 4,
+    "total_hacks": 0,
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/highground-hackers-urban-hack"
+  },
+  {
+    "id": "5328b88464b4539a3a000004",
+    "name": "P-Tech Hackathon",
+    "slug": "p-tech-hackathon",
+    "description": "Warby Parker X P-Tech hackathon",
+    "external_url": "",
+    "state": "pending",
+    "start_time": "2014-05-03T18:00:00Z",
+    "end_time": "2014-05-04T22:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5328b88464b4539a3a000004/original.png?1395177602",
+    "students_only": false,
+    "total_hackers": 1,
+    "total_hacks": 0,
+    "location": {
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/p-tech-hackathon"
+  },
+  {
+    "id": "53298f73966534bbe300000c",
+    "name": "Hackathon CCMA",
+    "slug": "hackathon-ccma",
+    "description": "24h to create apps or interactive projects linking mobile and TV.",
+    "external_url": "http://www.digital4c.cat/lang/es/hackathonccma/",
+    "state": "pending",
+    "start_time": "2014-05-02T10:00:00Z",
+    "end_time": "2014-05-03T10:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/53298f73966534bbe300000c/original.jpg?1395232624",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Barcelona",
+      "state": "Catalonia",
+      "country": "Spain"
+    },
+    "url": "http://hackerleague.org/hackathons/hackathon-ccma"
+  },
+  {
+    "id": "52b33782e1345d768b00000a",
+    "name": "newsHACK 2014",
+    "slug": "newshack-2014",
+    "description": "Following the success of #newsHACK in 2013, BBC News Labs & BBC Connected Studio are planning another News Industry Hackathon.\r\n\r\nSignup is initially at Eventbrite (to manage attendees)\r\nFOR NEWS ORGS AND UNIVERSITIES ONLY:\r\nhttps://www.eventbrite.co.uk/e/editorslab-bbc-newshack-tickets-10939882483\r\n\r\nWe will be asking participants to sign up their teams on Hackerleague nearer the time.",
+    "external_url": "http://newsHACK.co.uk/",
+    "state": "pending",
+    "start_time": "2014-05-01T09:00:00Z",
+    "end_time": "2014-05-02T17:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52b33782e1345d768b00000a/original.jpg?1387476861",
+    "students_only": false,
+    "total_hackers": 2,
+    "total_hacks": 0,
+    "location": {
+      "city": "Glasgow & Dublin",
+      "state": "TBC",
+      "country": "United Kingdom"
+    },
+    "url": "http://hackerleague.org/hackathons/newshack-2014"
+  },
+  {
+    "id": "5299ab1b127ac4afcf000008",
+    "name": "Hack for Romania",
+    "slug": "hack-for-romania",
+    "description": "On the month of April, 2014, web and software developers, designers, community organizers, and other folks from all over the world will gather to tackle Romania's challenges with technology. And we're just getting started.",
+    "external_url": "",
+    "state": "hacking",
+    "start_time": "2014-04-01T04:00:00Z",
+    "end_time": "2014-05-02T03:59:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5299ab1b127ac4afcf000008/original.jpg?1385802518",
+    "students_only": false,
+    "total_hackers": 6,
+    "total_hacks": 0,
+    "location": {
+      "city": "World Wide",
+      "state": "World Wide",
+      "country": "World Wide"
+    },
+    "url": "http://hackerleague.org/hackathons/hack-for-romania"
+  },
+  {
+    "id": "5333a31178f5c88c7d00000d",
+    "name": "news foundry 54",
+    "slug": "news-foundry-54",
+    "description": "come.  create.  innovate.  have fun.\r\n\r\n54 hours to tackle the curly opportunities we face.  to disrupt.  to ideate.\r\n\r\nthe theme is social mobile.  nothing else if off the table.",
+    "external_url": "newsfoundry54",
+    "state": "pending",
+    "start_time": "2014-04-29T00:00:00Z",
+    "end_time": "2014-04-30T07:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5333a31178f5c88c7d00000d/original.jpeg?1395893730",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "sydney",
+      "state": "nsw",
+      "country": "australia"
+    },
+    "url": "http://hackerleague.org/hackathons/news-foundry-54"
+  },
+  {
+    "id": "5329f0aca58fc98cd500000d",
+    "name": "IoT Hackathon by Techendo/SFHN",
+    "slug": "iot-hackathon-by-techendo-slash-sfhn",
+    "description": "We're cutting the cruft and giving you a hackathon focused on building, personal interaction with product builders and founders, and next-level integration of wearables. This is the Internet of Everything and we're in this to create the future.\r\n\r\nWe're welcoming everyone onboard, from small shops to large consumer products. This hackathon is about the community and bringing people together to build awesome stuff.",
+    "external_url": "http://hackendo.techendo.co/",
+    "state": "pending",
+    "start_time": "2014-04-26T01:00:00Z",
+    "end_time": "2014-04-28T03:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5329f0aca58fc98cd500000d/original.png?1395257513",
+    "students_only": false,
+    "total_hackers": 4,
+    "total_hacks": 0,
+    "location": {
+      "city": "San Francisco",
+      "state": "California",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/iot-hackathon-by-techendo-slash-sfhn"
+  },
+  {
+    "id": "533192fb88a6f4251d000003",
+    "name": "Hacking DPLA at TCDL",
+    "slug": "hacking-dpla-at-tcdl",
+    "description": "Join us for the Texas Conference on Digital Libraries' first-ever hackathon! We'll be developing tools that Texas libraries and others can freely use to power new and transformative explorations of our digitized cultural heritage, based on the Digital Public Library of America (DPLA) API.\r\n\r\nDPLA is a platform that enables new and transformative uses of digitized cultural heritage materials, based on a metadata repository that provides read-only access to millions of records from across the United States via an open API. Texas content is currently provided by the Portal to Texas History at the University of North Texas, one of nine DPLA Service Hubs, and by content contributed by DPLA Content Hubs. In this workshop, participants will actively code against the DPLA API to build or enhance apps, visualization tools, plug-ins, and other interesting tools that make use of DPLA data.\r\n\r\nThe DPLA encourages the development of apps and tools by developers of all skill levels and backgrounds; there are no strict boundaries on the types of apps accepted, except that they be open source (the DPLA platform is released under a AGPLv3 license) and interoperable with the DPLA platform.  DPLA API queries are returned as JSON-LD, and the metadata is freely reusable under a CC0 public domain license. A front-end portal is currently available at <http://dp.la>; prospective workshop participants are encouraged to explore the portal to see what types of materials are available.\r\n\r\nThis FREE hackathon will provide some background on DPLA and the DPLA API, but it will not provide a structured introduction to programming. Active participation is highly desired, so workshop participants should have at least some prior experience of working with APIs or with interface development in PHP, Ruby, Python, or Java. Participants should provide their own laptop computers with appropriate development environments; power and wireless Internet access will be available courtesy of the Texas Digital Library and The University of Texas at Austin Libraries. \r\n\r\nTechnical Notes: The DPLA codex is available at <http://dp.la/info/developers/codex/>. Participants should request an API Key prior to the workshop at <http://dp.la/info/developers/codex/policies/#get-a-key>. Please review the API Basics (<http://dp.la/info/developers/codex/api-basics/>) or browse the apps page (<http://dp.la/apps>) to see some examples of production apps. DPLA has made sample code and libraries for Python, Java, PHP, Ruby, and Node.js (<http://dp.la/info/developers/sample-code-and-libraries/>), which may provide a useful starting point for development. A troubleshooting and FAQ page (<http://dp.la/info/developers/codex/troubleshooting/>) is also available.",
+    "external_url": "https://conferences.tdl.org/tcdl/index.php/TCDL/TCDL2014",
+    "state": "pending",
+    "start_time": "2014-04-27T18:00:00Z",
+    "end_time": "2014-04-27T22:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/533192fb88a6f4251d000003/original.png?1395757817",
+    "students_only": false,
+    "total_hackers": 8,
+    "total_hacks": 1,
+    "location": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/hacking-dpla-at-tcdl"
+  },
+  {
+    "id": "5328f877a58fc98cd5000004",
+    "name": "DocGraph Virtual Hackathon 2014",
+    "slug": "docgraph-virtual-hackathon-2014",
+    "description": "[DocGraph](http://docgraph.org) is amassing the most accurate map of the Healthcare system every built and releasing it as an open data set.\r\n\r\nWith help from the wonderful folks at HHS FOIA department, we have just released a new updated map that is orders of magnitude more accurate than our previous data releases.\r\n\r\nNow we want to know what you can do with it!\r\n\r\nWe are piggy backing this event with the Cajun Codefest, so if you want to hack in person, come on down\r\n\r\n",
+    "external_url": "http://docgraph.org",
+    "state": "pending",
+    "start_time": "2014-04-23T18:13:00Z",
+    "end_time": "2014-04-27T18:13:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5328f877a58fc98cd5000004/original.png?1395193973",
+    "students_only": false,
+    "total_hackers": 1,
+    "total_hacks": 0,
+    "location": {
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/docgraph-virtual-hackathon-2014"
+  },
+  {
+    "id": "52e1947d3eed025536000011",
+    "name": "KUA TECH+HACK",
+    "slug": "kua-tech-plus-hack",
+    "description": "Kimball Union Academy TECH + Hack aims to bring together KUA high-school students with visionaries, researchers, and industry professionals working in science, technology, engineering, mathematics, music, and visual and performing arts to work together to complete projects that combine ideas from Science, Technology, Engineering and Math (or STEM) with ideas from non-STEM fields. \r\nOpen to students and faculty of KUA.\r\n\r\nFor more information, check out our website: http://www.math.dartmouth.edu/~kkinnaird/TECHplusHACK/",
+    "external_url": "http://www.math.dartmouth.edu/~kkinnaird/TECHplusHACK/",
+    "state": "pending",
+    "start_time": "2014-04-26T16:00:00Z",
+    "end_time": "2014-04-27T16:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52e1947d3eed025536000011/original.png?1390515320",
+    "students_only": false,
+    "total_hackers": 19,
+    "total_hacks": 7,
+    "location": {
+      "city": "Meriden",
+      "state": "NH",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/kua-tech-plus-hack"
+  },
+  {
+    "id": "53258d844cbfef1762000003",
+    "name": "appaction",
+    "slug": "appaction",
+    "description": "Appaction\r\n=========\r\n\r\nA 48-hour hackathon for mobile and web apps development.\r\nCome to Islamabad on 26-27 April and win prizes worth of 2.5 Million rupees.\r\n\r\nWhat is it?\r\n----------\r\n\r\nA competition for mobile and web apps development. Those who can develop websites or mobiles are invited to participate.\r\nYou'll be given 48-hour to build an app from scratch.\r\nYou can build apps for Web, Android and Windows 8/Phone.\r\n\r\nLocation\r\n--------\r\n\r\nIt is going to be held in Islamabad, Pakistan\r\n\r\nDates:\r\n-----\r\n26-27 April\r\n\r\nFee\r\n---\r\n\r\nFirst 100 tickets are free, so hurry up before we announce price.\r\n\r\nFood?\r\n---\r\n\r\nA lot. we'll make sure you survive those 48-hours and have enough fuel to keep your concentration on that cool app you are building.\r\n\r\n\r\nPrizes\r\n------\r\nWe have more prizes then you could handle. We even have prizes for all the teams regardless of the winning.\r\n\r\nSponsors\r\n-------\r\n\r\n- GitHub\r\n- Unity\r\n- UserVoice\r\n- Namecheap\r\n- CodeShip\r\n- Hull\r\n- UserApp\r\n- Codiqa\r\n- Canva\r\n- .ME domains\r\n- Appcelerator\r\n- Firebase\r\n- FreshBooks\r\n- SurveyMonkey\r\n- TreeHouse\r\n- DesignModo\r\n- Mashape\r\n\r\nMedia Partners\r\n-------------\r\n\r\n- Application Developers Alliance\r\n- Shashca\r\n\r\n\r\nMore Details?\r\n------------\r\n\r\nhttp://appaction.org\r\nhttp://fb.com/appaction.org\r\nhttp://twitter.com/AppActionDotORG\r\n\r\n",
+    "external_url": "http://appaction.org",
+    "state": "pending",
+    "start_time": "2014-04-26T04:00:00Z",
+    "end_time": "2014-04-27T12:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/53258d844cbfef1762000003/original.png?1394971755",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Islamabad",
+      "state": "Islamabad",
+      "country": "Pakistan"
+    },
+    "url": "http://hackerleague.org/hackathons/appaction"
+  },
+  {
+    "id": "52e810ba38fa08ab1f00000a",
+    "name": "WIC Hacks",
+    "slug": "wic-hacks",
+    "description": "**Calling all women!**\r\nAre you creative?\r\nDo you want to network with other creative women?\r\nDo you want to create technology innovations?\r\nDo you want to help solve world problems and make a difference?\r\nDo you want to have fun and try something new?\r\n\r\nIf you answered yes to any of the above questions, join **RIT Women in Computing at WIC Hacks on Saturday, April 26, 2014** at RIT!  WIC Hacks is a one-day hackathon for women, and will be one of many hackathons occurring on university campuses all over the world on the weekend of April 25-27, 2014 as part of the [International Women’s Hackathon](http://research.microsoft.com/en-us/events/womens-hackathon2014/).\r\n\r\n**Hackathon participants can be female college (including non-RIT) or high school students** who are at least 16 years of age.  This event is open to women of all skill levels: those who haven’t programmed at all, women who have done some programming, and the best women programmers out there. It will be a great day to learn, invent, and create the future.  Don’t have a team in mind?  No worries -- RIT WIC will be hosting a series of events (including one on the morning of the event) to facilitate team formation.\r\n\r\n**Not a student but still interested in participating in this event?**  Please consider being a mentor or a judge. **Mentors** are computing faculty or industry professionals, and will be paired with a team of students during the hackathon. Mentors will be responsible for providing broad guidance to their team. Mentors may also lead lunchtime table discussions during the hackathon. **Judges** can be computing faculty or industry professionals, and will be responsible for judging the hackathon teams’ entries. Mentors and judges can be male or female.  If you are interested in being a judge for this event, please send an email to wic.hacks.rit@gmail.com with the subject \"Interested Judge: Your name.\"  Please note that a mentor cannot also be a judge and vice versa.\r\n\r\nTo register for WIC Hacks, please go [here](http://www.wic-hacks.eventbrite.com).  Please direct further questions about hackathon sponsorship, participation, registration, mentorship, judging, etc. to wic.hacks.rit@gmail.com.",
+    "external_url": "http://wic-hacks.eventbrite.com",
+    "state": "pending",
+    "start_time": "2014-04-26T14:00:00Z",
+    "end_time": "2014-04-27T02:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52e810ba38fa08ab1f00000a/original.png?1391742243",
+    "students_only": false,
+    "total_hackers": 9,
+    "total_hacks": 0,
+    "location": {
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/wic-hacks"
+  },
+  {
+    "id": "53304b1e8e32accbe7000004",
+    "name": "EMERGE CHICAGO HACKATHON presented by UNETWORK",
+    "slug": "emerge-chicago-hackathon-presented-by-unetwork",
+    "description": "TEACHERS. NONPROFITS. COMMUNITY ORGANIZATIONS.\r\n\r\nThe EMERGE Hackathon (think Iron Chef of the digital world). This energizing and exciting experience will focus on solving a marketing and digital problem for a Chicago-based nonprofit. \r\n\r\nTHE EMERGE CAREER Conference will provide insights to careers in business, design & engineering, and technology in professional industries such as art, automotive, fashion, film, pharmaceutical, mobile and more. \r\n\r\nHOW IT WORKS\r\nEMERGE will select up to 5 nonprofit organizations who have a digital \r\nor marketing problem that need a solution.\r\n\r\nHackers will assemble into teams and have less than 24 hours to develop a solution, and present their ideas to a panel of top marketing and digital professionals. \r\n\r\nThe winning team will receive $1000 and their chosen nonprofit will receive a $1000 grant courtesy of EMERGE CONFERENCE.\r\n\r\nGET INVOLVED \r\n\r\nHACKERS:  Coders and digital marketing hackers can assemble a team of up to 10 people and will have approximately 24 hours to develop a solution for the organization. Stipulation: Each team must have a minimum 2 (two) high school students. Please sign up for updates and indicate that you are interested in being a hacker. \r\n\r\nCOMMUNITY ORGANIZATION: If your organization would like to submit for the opportunity to be selected a one of the five community organization, please sign up below. \r\n\r\n\r\n",
+    "external_url": "",
+    "state": "pending",
+    "start_time": "2014-04-25T23:30:00Z",
+    "end_time": "2014-04-26T19:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/53304b1e8e32accbe7000004/original.png?1395673880",
+    "students_only": false,
+    "total_hackers": 2,
+    "total_hacks": 0,
+    "location": {
+      "city": "Chicago",
+      "state": "Illinois ",
+      "country": "USA "
+    },
+    "url": "http://hackerleague.org/hackathons/emerge-chicago-hackathon-presented-by-unetwork"
+  },
+  {
+    "id": "530dcc944b4f102da200000c",
+    "name": "NetHack",
+    "slug": "nethack",
+    "description": "Na czym polega to wydarzenie ?\r\nW ciągu 24h drużyna ma pokazać \"działający\" produkt - bez prezentacji w PPT.\r\nZespoły mogą liczyć od 1 do 4 osób - zapewniamy pizza + napoje chłodzące.\r\nNa każdego czeka szybki internet , wolne gniazdka i sporo nagród do wygrania.\r\n\r\nNie ma ograniczenia co do języka programowania ani systemu operacyjnego.\r\nJeżeli ktoś chce zrobić coś przy użyciu hardware - również jest taka możliwość.\r\n\r\nZapraszamy tak że na DEMO Day - gdzie zespoły będą miały 3min na prezentacje + 2 min na pytania od Jury.",
+    "external_url": "",
+    "state": "pending",
+    "start_time": "2014-04-25T16:30:00Z",
+    "end_time": "2014-04-26T17:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/530dcc944b4f102da200000c/original.png?1393413260",
+    "students_only": false,
+    "total_hackers": 1,
+    "total_hacks": 0,
+    "location": {
+      "city": "Szczecin",
+      "state": "Zachodniopomorskie",
+      "country": "Poland"
+    },
+    "url": "http://hackerleague.org/hackathons/nethack"
+  },
+  {
+    "id": "5335a6c598fa27b175000002",
+    "name": "Tribeca Hack Mobile (Tribeca Film Festival Hackathon w/AT&T) NYC ",
+    "slug": "tribeca-hack-mobile-tribeca-film-festival-hackathon-w-slash-at-and-t-nyc",
+    "description": "Dear Hackers! \r\n\r\nTribeca Film Institute is a year-round nonprofit arts organization founded by Robert De Niro, Jane Rosenthal, and Craig Hatkoff that works with exceptional filmmakers and media artists to fully realize their work.\r\n\r\nIn conjunction with the world renowned Tribeca Film Festival, we will be hosting a groundbreaking hackathon in partnership with AT&T, focused on mobile technology and wearables. For two days (Thursday, April 24, and Friday, April 25) at Bennett Media Studio in the West Village, creative media makers will work with high level technologists and reputable designers to imagine and invent new possibilities for storytelling in an increasingly mobile and connected world, experimenting with storytelling on wearables, smartphones and tablets, using social media and connected devices.\r\n\r\nWe are seeking extraordinary coders, designers and filmmakers with the vision and drive to bring digital storytelling to the next level. If you fit the bill, we want you!\r\n\r\nThe Tribeca Film Festival is a prestigious event attended by thousands of game changers in the media and tech worlds, and top notch press outlets will be covering the event. The winning end prototype will be presented at TFI Interactive the following day and the winning team will be granted 2015 Tribeca Film Festival Hudson badges.\r\n\r\nPlease email TribecaHacksMobile@TribecaFilmInstitute.org with your background or resume by April 4th. \r\n\r\nSee you there!",
+    "external_url": "https://tribecafilminstitute.org/programs/detail/tribeca_hacks",
+    "state": "pending",
+    "start_time": "2014-04-24T13:00:00Z",
+    "end_time": "2014-04-26T01:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5335a6c598fa27b175000002/original.png?1396400591",
+    "students_only": false,
+    "total_hackers": 5,
+    "total_hacks": 0,
+    "location": {
+      "city": "New York City",
+      "state": "New York",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/tribeca-hack-mobile-tribeca-film-festival-hackathon-w-slash-at-and-t-nyc"
+  },
+  {
+    "id": "5304a79dc650dc1e91000009",
+    "name": "AT&T Rochester Civic App Challenge",
+    "slug": "at-and-t-rochester-civic-app-challenge",
+    "description": "The AT&T Rochester Civic App Challenge is a two month virtual hackathon for Rochester’s most talented computer scientists, software developers, hardware engineers and designers to build products that have the potential to benefit Upstate New York.\r\n\r\nMore info: http://attroc.hackupstate.com\r\nHashtag: #ATTROC\r\n\r\n##Who:\r\nThe greater Rochester, NY area developer and tech community\r\n\r\n##Purpose:\r\nAT&T and its partners the Rochester Institute of Technology, Digital Rochester, High Tech Rochester and Hack Upstate aim to unite developers in greater Rochester region to develop mobile apps serving community needs while demonstrating to local leaders and decision makers how mobile technologies can lead to the next generation of tech jobs and investment.\r\n\r\n##Civic Theme:\r\nSubmissions must address challenges relevant to the city and residents of Rochester, NY and the surrounding region (Livingston, Monroe, Ontario, Orleans, Wayne, Yates counties).\r\n\r\n##Where:\r\nRIT MAGIC Center\r\n159 Lomb Memorial Drive \r\nRochester, NY, 14623\r\n\r\n##When:\r\nFebruary 20th - April 23rd\r\n\r\n##Schedule:\r\n\r\n####Thursday February 20th: Kickoff Event: \r\n* 11:00am: Open to the public\r\n\r\n####Fri Feb 21st - Sat Feb 22nd: 24hr Kickoff Hackathon: \r\n* 6pm: Doors Open (Fri Feb 21st)\r\n* 6pm: Demos Begin (Sat Feb 22nd)\r\n\r\n####Wednesday March 5th: Check-in Event: \r\n* 5:00pm: Doors open / networking\r\n* 5:15pm: Informal gathering to connect and discuss progress\r\n\r\n####Wednesday April 23rd: Submissions Deadline:\r\n* 11:59pm: Deadline for online submissions via Hacker League\r\n\r\n####Monday May 12th: Demos and Awards: \r\n* 11:00am: Open to the public\r\n\r\n##Rules:\r\n* Submissions must address challenges relevant to the city of Rochester, NY and its surrounding area (Livingston, Monroe, Ontario, Orleans, Wayne, Yates counties)\r\n* To make the challenge truly Rochester-centric, teams submitting mobile apps must include at least one member that is either a current resident of the greater Rochester or attends one of the region’s institutions of higher education.\r\n* Products must be submitted before 11:59pm April 23rd via the Hacker League ‘Project’ submissions page\r\n\r\n##Community Partners:\r\n* Rochester Institute of Technology\r\n* Digital Rochester\r\n* High Tech Rochester\r\n* AT&T\r\n* Hack Upstate\r\n\r\n##Judges:\r\n* Hon Joseph D. Morelle, New York State Assembly Majority Leader (D-Irondequoit)\r\n* Senator Patrick M. Gallivan (59th District), Deputy Republican Conference Leader for Economic Development and Member of Senate Committee on Science, Technology, Incubation and Entrepreneurship\r\n* Marissa Shorenstein, AT&T New York President\r\n* Lisa Doerner, Executive Director, Digital Rochester\r\n* Dr. Stephen Jacobs, Professor, Associate Director of the MAGIC Center\r\n* Mike Riedlinger, Program Manager of Technology Commercialization, High Tech Rochester\r\n* Anthony Jefferson, Senior Lecturer, RIT\r\n* Jeff Sonstein, Associate Professor, RIT & Chief Architect, BlindSpotApp.com\r\n* Remy DeCausemaker, Assistant Director - Lab for Technological Literacy, RIT\r\n* Todd Bernhard, Founder & CTO, AllAccess.US\r\n* Ralph Bean, Software Engineer, Red Hat\r\n* Paul Solt, iOS Developer & Instructor, RIT\r\n* Steve Maier, Senior Technical Evangelist, Microsoft\r\n* Michael Fisher, Editorial Director, PocketNow\r\n* Tim Stevens, Editor at Large, CNET\r\n\r\n##Judging Criteria:\r\n* Potential impact on Rochester (40%)\r\n* Execution (40%)\r\n* Creativity / Novelty ( 20%)\r\n\r\n##Prizes: $18,000 total\r\n####Existing Civic Applications: \r\nDevelopers already working on a community service-themed app for the public can submit it for consideration.\r\n* Grand Prize: $5,000 \r\n* Second: $2,000\r\n* Third: $1,000\r\n* Two Honorable mentions: $500 each\r\n\r\n####New Civic Applications: \r\nFor those starting a brand new civic Rochester application for the hackathon\r\n* Grand Prize: $5,000 \r\n* Second: $2,000\r\n* Third: $1,000\r\n* Two Honorable mentions: $500 each\r\n\r\n##Organizer POCs:\r\n* Remy DeCausemaker (remydcsi@rit.edu)\r\n* Doug Crescenzi (doug@hackupstate.com)\r\n* Mitchell Patterson (mitchell@hackupstate.com)\r\n* Ben Roberts (br0881@att.com)",
+    "external_url": "http://attroc.hackupstate.com",
+    "state": "hacking",
+    "start_time": "2014-02-20T06:01:00Z",
+    "end_time": "2014-04-24T03:59:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5304a79dc650dc1e91000009/original.jpg?1392813977",
+    "students_only": false,
+    "total_hackers": 51,
+    "total_hacks": 14,
+    "location": {
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/at-and-t-rochester-civic-app-challenge"
+  },
+  {
+    "id": "5332408daef9a7b740000001",
+    "name": "Pitzer College Civic Hackathon",
+    "slug": "pitzer-college-civic-hackathon",
+    "description": "April 19th, 2014\r\nFree and Open to the Community\r\nAll experience levels encouraged\r\nPitzer College Campus - Founders Room\r\n\r\nWe look forward to building tech applications for a stronger Claremont community. \r\n\r\nThe first Pitzer Civic Hackathon is a public event to connect you with students from the Claremont Colleges, local businesses, community leaders, and individuals with technical experience by developing mobile apps and web. Using your interests in technology with civic engagement you'll get to chance explore how these places intersect with talented and diverse groups of people.\r\n\r\nBy discovering what types of projects will best serve the City of Claremont we will be building a better community through tech. We look forward to working with you soon.\r\n\r\nThis event will be on the Pitzer College campus in the Founders' Room:\r\n\r\nThe Founder's Room in on the second floor in the McConnell center, building 9 on the map linked below. \r\n\r\nhttp://www.pitzer.edu/about/maps/map_quickreference.html",
+    "external_url": "www.siliconcouncil.com/participate",
+    "state": "pending",
+    "start_time": "2014-04-19T17:00:00Z",
+    "end_time": "2014-04-20T00:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5332408daef9a7b740000001/original.jpg?1395802248",
+    "students_only": false,
+    "total_hackers": 1,
+    "total_hacks": 0,
+    "location": {
+      "city": "Claremont",
+      "state": "CA",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/pitzer-college-civic-hackathon"
+  },
+  {
+    "id": "52b5c4c408c8d79c7e000007",
+    "name": "Civic*Celerator",
+    "slug": "civic-star-celerator",
+    "description": "Civic*Celerator is a series of workshops and events, culminating with a demo day, to develop user friendly applications (apps) that can provide relevant information about political candidates and the amounts and sources of their financial support to voters and prospective voters. These apps will leverage the resource of open data made available by the Hawaii Campaign Spending Commission as well as other open government data repositories like legislative data, precinct data, etc.",
+    "external_url": "http://civic.celerator.org",
+    "state": "hacking",
+    "start_time": "2014-01-01T16:00:00Z",
+    "end_time": "2014-04-19T20:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52b5c4c408c8d79c7e000007/original.jpg?1387644098",
+    "students_only": false,
+    "total_hackers": 11,
+    "total_hacks": 2,
+    "location": {
+      "city": "Honolulu",
+      "state": "HAWAII (HI)",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/civic-star-celerator"
+  },
+  {
+    "id": "52fddb25ef058ff837000001",
+    "name": "HackIDC",
+    "slug": "hackidc",
+    "description": "HackIDC will be the first annual Interdisciplinary Center (IDC) student hackathon. \r\nIt will be held on April 16-18, 2014 at the IDC campus in Herzliya. \r\nParticipation will be open for any full-time or part-time university/college student \r\nwith knowledge of programming or design. ",
+    "external_url": "www.hackidc.com",
+    "state": "pending",
+    "start_time": "2014-04-16T05:30:00Z",
+    "end_time": "2014-04-18T10:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52fddb25ef058ff837000001/original.png?1392368418",
+    "students_only": true,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Herzliya",
+      "state": "IL",
+      "country": "Israel"
+    },
+    "url": "http://hackerleague.org/hackathons/hackidc"
+  },
+  {
+    "id": "5331eaca0d43c16eeb000005",
+    "name": "SpaceAppsPR 2014",
+    "slug": "spaceappspr-2014",
+    "description": "# SpaceAppsPR\r\n \r\nSpaceAppsPR fue creado para fomentar la participación de la comunidad puertorriqueña en el International Space Apps Challenge; un evento internacional auspiciado por la NASA para desarrollar soluciones a problemas en el área de las ciencias.\r\n\r\n### Regístrate \r\n\r\nhttps://2014.spaceappschallenge.org/register/\r\n\r\nEscoge \"Virtual Participant\" como tu localización.\r\n\r\n### Más información\r\n\r\nEl 12 y 13 de abril del 2014, puertorriqueños de toda la isla estarán trabajando en los desafíos propuestos por el Space Apps Challenge. \r\n\r\nPuedes navegar el área de proyectos para ver los desafíos y buscar colaboradores para tu equipo. O visita la página oficial para ver todos los \"challenges\" en https://2014.spaceappschallenge.org/challenge/\r\n\r\nEsperamos que en el 2015 SpaceAppsPR sea anfitrión o ayude a coordinar eventos de Space Apps Challenge en algún lugar de la Isla.",
+    "external_url": "http://spaceappspr.com",
+    "state": "pending",
+    "start_time": "2014-04-12T12:00:00Z",
+    "end_time": "2014-04-14T03:59:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5331eaca0d43c16eeb000005/original.png?1395780295",
+    "students_only": false,
+    "total_hackers": 2,
+    "total_hacks": 0,
+    "location": {
+      "city": "Toda La Isla",
+      "state": "PR",
+      "country": "Puerto Rico"
+    },
+    "url": "http://hackerleague.org/hackathons/spaceappspr-2014"
+  },
+  {
+    "id": "5335f087f9c10265c5000008",
+    "name": "Emory Hackathon 2014",
+    "slug": "emory-hackathon-2014",
+    "description": "Hackathon madness comes to Atlanta, GA this April at Emory University. You have 32 hours to learn some new technology, build an awesome hack, and showcase it to get a piece of the $3000+ prize pool. We believe that hackathons should be accessible to all students, regardless of skill level, so don't be afraid to sign up- even if you don't know a lick of coding. Bring only your imagination and a desire to get stuff done, we will take care of the rest. So what will you create in 2 hours? \r\n\r\n***Official signup is done through our website- www.emoryhackathon.org, and not through Hacker League***",
+    "external_url": "www.emoryhackathon.org",
+    "state": "pending",
+    "start_time": "2014-04-12T14:00:00Z",
+    "end_time": "2014-04-13T21:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5335f087f9c10265c5000008/original.jpg?1396043906",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Atlanta",
+      "state": "GA ",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/emory-hackathon-2014"
+  },
+  {
+    "id": "52fd506fe767c92cab00000a",
+    "name": "Reno Hackathon",
+    "slug": "reno-hackathon",
+    "description": "Take advantage of the Microsoft ecosystem to build apps, deliver unique consumer experiences and realize your full potential. \r\n\r\nThis Hackathon is open to anyone and takes place at the DeLaMare Library on the University of Nevada, Reno campus.\r\n",
+    "external_url": "http://www.renohackathon.com/",
+    "state": "pending",
+    "start_time": "2014-04-12T19:00:00Z",
+    "end_time": "2014-04-13T19:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52fd506fe767c92cab00000a/original.png?1392332909",
+    "students_only": false,
+    "total_hackers": 25,
+    "total_hacks": 1,
+    "location": {
+      "city": "Reno",
+      "state": "Nevada",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/reno-hackathon"
+  },
+  {
+    "id": "530652d78792d97341000027",
+    "name": "HackIllinois",
+    "slug": "hackillinois",
+    "description": "Imagine. Learn. Launch. HackIllinois is a chance for you to spend 36 hours with a team building any project you'd like! You can work on a useful tool you wish existed or a skill or language you want to learn. Web apps, mobile apps, and hardware hacks - Anything goes! http://www.hackillinois.org/",
+    "external_url": "http://www.hackillinois.org/",
+    "state": "pending",
+    "start_time": "2014-04-12T03:00:00Z",
+    "end_time": "2014-04-13T15:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/530652d78792d97341000027/original.png?1392923347",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Champaign",
+      "state": "Illinois",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/hackillinois"
+  },
+  {
+    "id": "531f2f00bf5a5d6f6000000c",
+    "name": "2014 RVA Hackathon",
+    "slug": "2014-rva-hackathon",
+    "description": "2014 RVA Hackathon is a one day hackathon on April 12th in Richmond, Virginia that challenges you and your friends to make something awesome together.",
+    "external_url": "http://www.rvahackathon.com",
+    "state": "pending",
+    "start_time": "2014-04-12T12:00:00Z",
+    "end_time": "2014-04-13T00:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/531f2f00bf5a5d6f6000000c/original.png?1394552572",
+    "students_only": false,
+    "total_hackers": 1,
+    "total_hacks": 1,
+    "location": {
+      "city": "Richmond",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/2014-rva-hackathon"
+  },
+  {
+    "id": "52d42adf789e445acd000005",
+    "name": "5C Hackathon, Fifth Semiannual",
+    "slug": "5c-hackathon-fifth-semiannual",
+    "description": "The 5C Hackathon is in its third year serving the Claremont Colleges, focusing on building a more engaged technical community on campus and bringing in students from all experience levels for 12 hours of food, fun, and code. Last semester, it brought in over 300 of the most talented students at Pomona, Harvey Mudd, Claremont McKenna, Scripps, and Pitzer Colleges and taught over 100 students with little to no prior coding experience about web development through its companion event, Hack Week.\r\nWe're excited to be back for our fifth round this spring, promising to be bigger and better than ever. There will be more food, more prizes, and more swag - plus our traditional midnight food truck, 2 am run, and official event T-shirts. Hope to see you there!",
+    "external_url": "http://www.5CHackathon.com",
+    "state": "pending",
+    "start_time": "2014-04-12T02:00:00Z",
+    "end_time": "2014-04-12T17:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52d42adf789e445acd000005/original.png?1389636313",
+    "students_only": false,
+    "total_hackers": 6,
+    "total_hacks": 0,
+    "location": {
+      "city": "Claremont",
+      "state": "California",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/5c-hackathon-fifth-semiannual"
+  },
+  {
+    "id": "53331cc0ccf27067c5000004",
+    "name": "1% Challenge: City Year Recruitment",
+    "slug": "1-percent-challenge-city-year-recruitment",
+    "description": "What happens when you get the whole Harry’s team together in a friendly- competition-and-social-impact-fueled marathon working session? We’ll find out at our first ever hackathon for social good.\r\nIn this team-oriented, skills-focused 1% time event, Harry’s employees and City Year corps members will commit their time and talents to solving a key problem faced by City Year. They’ll spend a day building prototypes and proposals and will present their final ideas for a suite of prizes. \r\n",
+    "external_url": "",
+    "state": "pending",
+    "start_time": "2014-04-07T22:00:00Z",
+    "end_time": "2014-04-12T00:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/53331cc0ccf27067c5000004/original.png?1395858607",
+    "students_only": false,
+    "total_hackers": 3,
+    "total_hacks": 0,
+    "location": {
+      "city": "New York",
+      "state": "New York",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/1-percent-challenge-city-year-recruitment"
+  },
+  {
+    "id": "532057045575fd0b48000006",
+    "name": "Bitcoin 2.0 Hackathon: Distributed Applications",
+    "slug": "bitcoin-2-dot-0-hackathon-distributed-applications",
+    "description": "Discovering and Developing Next Generation Commerce",
+    "external_url": "mastercoin.org",
+    "state": "pending",
+    "start_time": "2014-04-10T08:00:00Z",
+    "end_time": "2014-04-11T15:30:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/532057045575fd0b48000006/original.png?1394628353",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada"
+    },
+    "url": "http://hackerleague.org/hackathons/bitcoin-2-dot-0-hackathon-distributed-applications"
+  },
+  {
+    "id": "53163a0abf36d5918d000001",
+    "name": "Boston Cleanweb Hackathon 3.0",
+    "slug": "boston-cleanweb-hackathon-3-dot-0",
+    "description": "The 3rd Annual Boston Cleanweb Hackathon is a two-day prize competition to demonstrate the impact of applying information technologies to energy and resource constraints, known as the cleanweb. Entrepreneurs, developers, designers, and business professionals create web and mobile IT applications to solve some of our biggest energy and sustainability problems.\r\n\r\nWe’ll provide the food, some entertainment, and special guests. But we need you to provide the ideas, talent, and hard work. Last year's winning team took in over $10,000 in prize money. \r\n\r\nThis year's hacakthon will be bigger than ever. More sponsors, more participants, and more great projects. \r\n\r\nGet your tickets here:\r\n\r\nhttps://www.eventbrite.com/e/2014-boston-cleanweb-hackathon-tickets-6538688393",
+    "external_url": "http://www.cleanwebhackathon.com/",
+    "state": "pending",
+    "start_time": "2014-04-04T21:00:00Z",
+    "end_time": "2014-04-06T21:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/53163a0abf36d5918d000001/original.png?1393966330",
+    "students_only": false,
+    "total_hackers": 4,
+    "total_hacks": 0,
+    "location": {
+      "city": "Somerville",
+      "state": "MA",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/boston-cleanweb-hackathon-3-dot-0"
+  },
+  {
+    "id": "533ad885dbd28d1168000001",
+    "name": "MIT Hacking Medicine NYC Hackathon",
+    "slug": "mit-hacking-medicine-nyc-hackathon",
+    "description": "We are proud to announce MIT Hacking Medicine NYC Hackathon hosted by WebMD! The goal of this event is to bring together inventive, forward-thinking minds to change the status quo and create disruptive solutions in healthcare today. If you are an engineer, entrepreneur, physician, designer, or scientist, then come get involved to help drive the much-needed change in healthcare. We are partnering up with several local New York schools including Cornell Tech and Cornell University!\r\n\r\nEnd the weekend with a team, prizes, and a hack on its first steps towards disrupting healthcare. Past teams at hack-a-thons just like this one have gone on to found companies, enter business plan competitions, and secure venture funding.\r\n\r\nThe hack-a-thon will take place over the weekend from April 4th– 6th at WebMD’s office located on 111 8th Ave, 7th Floor, New York, NY 10011. The weekend will kick-off with a social event for attendees to meet one another. The hack-a-thon will then commence on Saturday and run until Sunday evening. Make sure to check out the link below for more details regarding logistics for the event.  http://nychack.wordpress.com/\r\n",
+    "external_url": "http://nychack.wordpress.com/",
+    "state": "pending",
+    "start_time": "2014-04-05T12:00:00Z",
+    "end_time": "2014-04-06T21:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/533ad885dbd28d1168000001/original.jpg?1396365443",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "New York City",
+      "state": "NY",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/mit-hacking-medicine-nyc-hackathon"
+  },
+  {
+    "id": "533713a133d1b1c99600000b",
+    "name": "HackFSU",
+    "slug": "hackfsu",
+    "description": "HackFSU is a hackathon for students, by students. This will be the ultimate place for collaboration and creation. Attendees will have 24 hours to make something amazing. Students will work in teams of 1-5 and have access to mentors and fellow hackers for help.",
+    "external_url": "http://hackfsu.com",
+    "state": "pending",
+    "start_time": "2014-04-05T16:00:00Z",
+    "end_time": "2014-04-06T20:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/533713a133d1b1c99600000b/original.jpg?1396118430",
+    "students_only": false,
+    "total_hackers": 1,
+    "total_hacks": 0,
+    "location": {
+      "city": "Tallahassee",
+      "state": "Florida",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/hackfsu"
+  },
+  {
+    "id": "52f24f41e58c5558d4000008",
+    "name": "Rock Hack",
+    "slug": "rock-hack",
+    "description": "**Geologists building useful stuff together.** \r\n\r\nJoin us for a weekend of creative technology, building new tools for the community. Come by yourself, or bring a team. \r\n\r\nYou don't have to be a programmer to take part! We need ideas, data, graphics, and someone to help drink beer. \r\n\r\nSTART Houston, 1121 Delano St, Houston. ",
+    "external_url": "http://www.subsurfwiki.org/wiki/Rock_Hack_2014",
+    "state": "pending",
+    "start_time": "2014-04-05T12:00:00Z",
+    "end_time": "2014-04-06T19:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52f24f41e58c5558d4000008/original.png?1391611710",
+    "students_only": false,
+    "total_hackers": 7,
+    "total_hacks": 1,
+    "location": {
+      "city": "Houston",
+      "state": "Texas",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/rock-hack"
+  },
+  {
+    "id": "528bcee92708169108000002",
+    "name": "Spring 2014 HackNY Student Hackathon",
+    "slug": "spring-2014-hackny-student-hackathon",
+    "description": "Welcome to the spring 2014 hackNY student hackathon! hackNY organizes once-a-semester student hackathons at which NYC startups present their technologies and students build original applications based on them. Winning teams have presented at the New York Tech Meetup. Check back here for info, signup for our newsletter (http://hackny.org/a/newsletter/) or follow us @hackNY.\r\n\r\n**Registration Closed\r\nDue to overwhelming demand and space constraints, registration for the spring 2014 hackNY student hackathon is now closed.  Thank you to all those registered - we look forward to an awesome event! For those unable to register, please keep an eye out for the fall 2014 hackNY student hackathon at www.hackNY.org!",
+    "external_url": "www.hackny.org",
+    "state": "pending",
+    "start_time": "2014-04-05T18:00:00Z",
+    "end_time": "2014-04-06T18:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/528bcee92708169108000002/original.png?1384894182",
+    "students_only": true,
+    "total_hackers": 543,
+    "total_hacks": 3,
+    "location": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/spring-2014-hackny-student-hackathon"
+  },
+  {
+    "id": "52cadfe684cbca451f000005",
+    "name": "Hack Upstate Spring 2014",
+    "slug": "hack-upstate-spring-2014",
+    "description": "Hack Upstate is a weekend hackathon that happens twice a year (i.e. Fall & Spring) where developers, innovators and designers from Upstate New York come together in Syracuse, NY, share ideas, form teams and build products!\r\n\r\nTwitter: @hackupstate\r\nWebsite: http://hackupstate.com/\r\n\r\n##Who:\r\nThe Upstate New York Developer Community\r\n\r\n##What:\r\nHack Upstate is a weekend hackathon that happens twice a year (i.e. Fall & Spring) where developers, innovators and designers from Upstate New York come together in Syracuse, NY, share ideas, form teams and build products!\r\n##Theme:\r\nOpen Hackathon i.e. people can build whatever they want using whatever tools they'd like.\r\n##Where:\r\nThe Technology Garden\r\n235 Harrison Street\r\nSyracuse, NY 13202\r\n[Directions](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=235+Harrison+St,+Syracuse,+NY&aq=1&oq=235+harrison+st+&sll=42.746632,-75.770041&sspn=6.977642,13.952637&vpsrc=0&ie=UTF8&hq=&hnear=235+Harrison+St,+Syracuse,+New+York+13202&t=m&z=17&iwloc=A)\r\nNote: Teams are allowed to participate virtually, however they will not be able to demo their products; consequently will not be eligible to win prizes.\r\n##Why:\r\nHack Upstate intends to unite and facilitate collaboration among the greater Upstate New York hacker community. In doing so, we aim to contribute to the growth of Upstate New York's technology sector, and to create a robust network of technologists and regional technology companies.\r\n##When:\r\nSaturday April 5th and Sunday April 6th\r\n##Schedule:\r\n###Saturday April 5th\r\n* 11am: Doors open\r\n* 12pm: Idea pitching and team formation\r\n* 12:30pm: Commence hacking\r\n\r\n###Sunday April 6th\r\n* 11:59am: Cease hacking\r\n* 12pm: Demo intro / welcome judges\r\n* 12:30pm: Demos, pitches and presentations\r\n* 1:30pm: Awards ceremony\r\n\r\n##Rules:\r\nNo code can be written until 12:30pm Saturday April 5th\r\n\r\n##Sponsors:\r\n* Rain\r\n* Centerstate CEO\r\n* Spark Devices\r\n* Cyber Research Insitute\r\n* Terakeet\r\n* Rounded\r\n* Z80 Labs\r\n* Madglory\r\n* Polaris Library Systems\r\n* Syracuse University iSchool\r\n* SUNY Oswego\r\n* Eric Mower and Associates\r\n* Dwolla\r\n* Doolli\r\n* NextPlex\r\n* Credit Card Insider\r\n* Cafe Kabal\r\n* 43North\r\n\r\n##Judges:\r\n* Mark Headd, CDO, City of Philadelphia\r\n* Patrick Danial, CTO, Terakeet\r\n* Dr. Len Popyack, Executive Director, Cyber Research Institute\r\n* Aaron Batchelder, Founder, Tooth Fairy Tech\r\n\r\n##Prizes:\r\n###Grand Prize\r\n* 3 Pebble Smartwatches\r\n\r\n###Second Place Prize\r\n* 3 Arduino Starter Kits\r\n\r\n###Spark Core Prize\r\n* 2 Spark Cores\r\n\r\n###Dwolla Prize\r\n* 4 Raspberry Pi Complete Starter Kits\r\n\r\n##Free Swag:\r\n* Hack Upstate T-Shirts\r\n* More TBD\r\n\r\n##Judging Criteria:\r\n* Creativity / Novelty (20%)\r\n* Wow factor (20%)\r\n* Execution (20%)\r\n* Polished Demo (20%)\r\n* Multidisciplinary product (20%)\r\n\r\n##Other Details:\r\n* Food and beverages will be provided to participants throughout the entire event (i.e. lunch, dinner, snacks, beer, soda, etc)\r\n\r\n##Organizer POCs:\r\nMitchell Paterson (mitchell@hackupstate.com)\r\nDoug Crescenzi (doug@hackupstate.com)\r\n\r\nPlease reach out to us if you have any questions or suggestions.",
+    "external_url": "http://hackupstate.com",
+    "state": "pending",
+    "start_time": "2014-04-05T16:30:00Z",
+    "end_time": "2014-04-06T15:59:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52cadfe684cbca451f000005/original.png?1389028545",
+    "students_only": false,
+    "total_hackers": 75,
+    "total_hacks": 5,
+    "location": {
+      "city": "Syracuse",
+      "state": "New York",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/hack-upstate-spring-2014"
+  },
+  {
+    "id": "533b0b160b8f270512000005",
+    "name": "HackPSU 2014",
+    "slug": "hackpsu-2014",
+    "description": "A 36-hour (learning) Hackathon at Penn State University where students can learn to code or compete to build the best hack, software, hardware or app.  \r\n\r\n(This event is free) Whether you have a background in programming or a knack for creativity, this is the perfect opportunity to form a team around an idea, build a prototype, and present it to reputable judges at the end of the 36 hours.  There will be workshops available for all skill levels, so you don't have to be a programmer to get involved.",
+    "external_url": "www.hackpsu.com",
+    "state": "pending",
+    "start_time": "2014-04-05T00:00:00Z",
+    "end_time": "2014-04-06T14:00:00Z",
+    "logo": "/logos/original/missing.png",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "State College",
+      "state": "PA ",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/hackpsu-2014"
+  },
+  {
+    "id": "5319f2f86db4ddf65f000009",
+    "name": "Intel Galileo Hackathon - Farset Labs",
+    "slug": "intel-galileo-hackathon-farset-labs",
+    "description": "**Join Intel in celebrating Farset Labs‘ birthday with a Galileo hackathon!**\r\n \r\nSpace is available for 10 teams, so register early to avoid disappointment. **Each team will be able to keep the Intel® Galileo board** (running the Intel® Quark SoC X1000 400 MHz) provided, after the event . \r\n \r\nFarset Labs have various fixtures and fittings that plug into the Galileo board, but you are welcome to bring your own Arduino compatible shields, and other sensors, actuators, whatever, and connect them up. \r\n \r\nFood (breakfast, lunch, dinner, snacks, drinks) will be provided, so you can keep hacking to your heart's content!\r\n \r\nCheckout what some of the teams built at a [recent Intel Galileo hackathon](http://www.mobilelinuxnews.com/2014/03/video-internet-things-robot-car-iri-pal-team-wipjam-mwc-2014/ \"Galileo powered robotic car\")\r\n \r\n[What will you make?](http://maker.intel.com \"What will you make, Intel Maker Zone\")",
+    "external_url": "farsetlabs.org.uk",
+    "state": "pending",
+    "start_time": "2014-04-04T17:00:00Z",
+    "end_time": "2014-04-05T17:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5319f2f86db4ddf65f000009/original.jpeg?1394209524",
+    "students_only": false,
+    "total_hackers": 26,
+    "total_hacks": 6,
+    "location": {
+      "city": "Belfast",
+      "state": "Antrim",
+      "country": "UK"
+    },
+    "url": "http://hackerleague.org/hackathons/intel-galileo-hackathon-farset-labs"
+  },
+  {
+    "id": "533c28475378ca9547000006",
+    "name": "Music Hack Day Paris #2",
+    "slug": "music-hack-day-paris-number-2",
+    "description": "Music Hack Day Paris kicks off on April 4th, and you're all invited ;)﻿\r\nA full week-end of music hacking. Software + Hardware + Art + Web. Come build the future of music!\r\n\r\nMusic Hack Day is an international 24-hour event where programmers, designers and artists come together to conceptualize, build and demo the future of music. Software, hardware, mobile, web, instruments, art - anything goes as long as it’s music related.\r\nThis is going to be epic!\r\n\r\nFull details about the event can be found here: http://mhdparis.splashthat.com/\r\n\r\nSponsors\r\n====================\r\nDeezer\r\nSpotify\r\nSendGrid\r\nMusicovery\r\nMusixmatch\r\nGracenote\r\nSoundCloud\r\nEdjing\r\n\r\n\r\nRegistration\r\n====================\r\n Please only RSVP if you will attend: http://mhdparis.splashthat.com/\r\n\r\nVenue\r\n====================\r\nDeezer HQ, 10 rue d'Athènes, 75009 Paris, France\r\n\r\n",
+    "external_url": "http://mhdparis.splashthat.com/",
+    "state": "pending",
+    "start_time": "2014-04-05T07:00:00Z",
+    "end_time": "2014-04-05T15:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/533c28475378ca9547000006/original.png?1396451397",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Paris",
+      "state": "IDF",
+      "country": "France"
+    },
+    "url": "http://hackerleague.org/hackathons/music-hack-day-paris-number-2"
+  },
+  {
+    "id": "5302334c7ff2f0b1d2000004",
+    "name": "BV IO 2014 Bazaarvoice Tech Conference and Hackathon",
+    "slug": "bv-io-2014-bazaarvoice-tech-conference-and-hackathon",
+    "description": "Bazaarvoice is a social commerce platform and this year we are hosting our first ever public technical conference and hackathon to help inspire and drive innovation in the social commerce space.  \r\nWe have assembled a great group of speakers and mentors to help accelerate and inspire you to build some amazing new social commerce applications. We have also partnered with a few of our customers to make their data available for you to hack on. For the first time ever, we are opening up our platform, our mobile SDK, and our Developer API to you. \r\n\r\nWhat could you build with 20M products + 250M reviews and social content + 650M unique shoppers + an API + a mobile SDK? \r\n\r\nWant to participate in social commerce and help us make shopping online more fun and authentic?\r\n\r\nAlready work at an amazing startup in town? Come bring your dev team and work with us to build some cool integrations to help both our customers!\r\n\r\nGet all the details, and register for the event on Eventbrite at [BV IO 2014 Bazaarvoice Tech Conference and Hackathon](http://bvio2014.eventbrite.com)\r\n\r\n",
+    "external_url": "http://bvio2014.eventbrite.com",
+    "state": "hacking",
+    "start_time": "2014-04-02T13:30:00Z",
+    "end_time": "2014-04-04T22:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5302334c7ff2f0b1d2000004/original.png?1392653125",
+    "students_only": false,
+    "total_hackers": 38,
+    "total_hacks": 5,
+    "location": {
+      "city": "Austin",
+      "state": "Texas",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/bv-io-2014-bazaarvoice-tech-conference-and-hackathon"
+  },
+  {
+    "id": "531f53b0871a59907c000004",
+    "name": "The BeMyApp Factory Hackathon",
+    "slug": "the-bemyapp-factory-hackathon",
+    "description": "You want to win everything you need to roll out a quality crowdfunding campaign for a connected device? Come to the BeMyApp Factory Hackathon and build a connected device! \r\n\r\nThis is a hackathon for inventors, builders, coders and designers who want to create a connected device, NOT for those who want to create an app for a current connected device - so no we won't have Glass, Pebble, UP, etc.\r\n\r\nThe winning team will get hands-on consulting sessions with 219 Design, a product video funded by us, help creating a beautiful prototype, media coverage and help from the BeMyApp Crew :) So, if you're passionate about what you'll be building, be ready for the chance to work hard to launch a crowdfunding campaign for your amazing product. By the way, commitment and dedication to continue the project will be on the judging criteria list. \r\n\r\nEven if you come with a team, you will still need to pitch your idea Friday night to get feedback from the mentors! Idea pitches need to be turned in by 3/20. Feel free to email/call before that to chat about your idea. \r\n\r\nIt’s ok for you to bring an idea that you’ve worked on, but you have to build a prototype from scratch during the hackathon. \r\n\r\nPlease BYOH, but as promised, we will also be hooking you up with components as well. Electric Imp, will have Imps for anyone who wants to use one for their project!  That being said, there are no requirements regarding what components you use-as long as you build a connected device of some sort! \r\n\r\nWe will have all the components on this list (https://www.sparkfun.com/wish_lists/73653) as well as arduino boards, beacons and BL boards, and some other goodies. We will also have a couple soldering stations, an oscilloscope, a voltmeter, a logic analyzer, some wire strippers, a dremel and some hand tools (but please bring some if you have em!)  \r\n\r\nJust remember, we are not a store so we will not have everything you can think of. If you already know you need something specific, BRING IT! \r\n\r\nWe’re partnering with TechShop, Electric Imp, 219\r\nDesign, Whistle, MbientLab and SparkFun (so far!)  Big shout out to Sandbox Suites for hosting us! We cant wait to see what you crazy inventors get up to! ",
+    "external_url": "factory.bemyapp.com",
+    "state": "complete",
+    "start_time": "2014-03-29T02:00:00Z",
+    "end_time": "2014-03-31T04:30:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/531f53b0871a59907c000004/original.jpg?1394561960",
+    "students_only": false,
+    "total_hackers": 3,
+    "total_hacks": 0,
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/the-bemyapp-factory-hackathon"
+  },
+  {
+    "id": "52ced0bfac6182b053000010",
+    "name": "FinCapDev NYC Hackathon: Powered by US Financial Diaries",
+    "slug": "fincapdev-nyc-hackathon-powered-by-us-financial-diaries",
+    "description": "In short, FinCapDev hackathons are two-day events at which entrepreneurs, designers, developers and innovators come together, collaborate and build things. What types of things? Hacks, prototypes or apps for mobile platforms that attack specific issues described in U.S. Financial Diaries cases that will be presented at each hackathon. Your hack should help underserved Americans make smarter financial choices and achieve better access to financial products and services. What are the U.S. Financial Diaries cases? U.S. Financial Diaries is a research project tracking more than 200 low- and moderate-income households over the course of a year, and collecting highly detailed data on household financial activity. The cases describe real people and document their financial lives.  These real households will inspire your hacks. \r\n\r\nIs there a registration fee?\r\nYes, it’s $20 per person in advance, $30 at the door, day-of. But here’s the fun part: your registration fees (and everyone else’s) go towards the Hacker’s Choice Award prize pot.  The Hackers’ Choice Award will be an as-voted-by-your-peers prize that goes to the participating team that gets the most love. \r\n\r\n<b>Register for the FinCapDev NYC Hackathon here: http://fincapdevnyhackathon.eventbrite.com</b>\r\n\r\nSpeaking of prizes… In addition to the Hackers’ Choice Award, here’s the prize breakdown: \r\n<>Grand Prize: $3,000  plus a guaranted Finalist slot in the FinCapDev 2014 Competition (which includes a $7,500 cash stipend and access to technical and expert resources to further development, plus a shot at the $50,000 FinCapDev 2014 Competition Grand Prize).\r\n<>Runner Up Prizes (2): $1,000.\r\n\r\nFor more information: http://www.fincapdev.com/hackathons/",
+    "external_url": "https://fincapdevnyhackathon.eventbrite.com",
+    "state": "complete",
+    "start_time": "2014-03-29T13:00:00Z",
+    "end_time": "2014-03-30T22:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52ced0bfac6182b053000010/original.png?1389285564",
+    "students_only": false,
+    "total_hackers": 2,
+    "total_hacks": 0,
+    "location": {
+      "city": "New York City",
+      "state": "NY",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/fincapdev-nyc-hackathon-powered-by-us-financial-diaries"
+  },
+  {
+    "id": "533815ec6e8d760595000004",
+    "name": "PilotDC",
+    "slug": "pilotdc",
+    "description": "PilotDC is a Pilot-run event. Pilot is a national organization that holds hands-on educational events for high school students. Students form teams, brainstorm ideas, work together to bring one of those ideas to life with technology, and then demo and pitch the apps/websites they created for awards and prizes. We engage the local community by bringing in engineers and designers who mentor these students over the course of a day and help them bring their ideas to life.\r\n\r\nThrough this process students learn how to think creatively, pitch and demo their projects, and more technical skills like how to code and design. Most importantly, they learn how to learn.",
+    "external_url": "dc.gopilot.org",
+    "state": "complete",
+    "start_time": "2014-03-29T16:01:00Z",
+    "end_time": "2014-03-30T18:25:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/533815ec6e8d760595000004/original.png?1396184552",
+    "students_only": false,
+    "total_hackers": 138,
+    "total_hacks": 64,
+    "location": {
+      "city": "Washington",
+      "state": "DC",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/pilotdc"
+  },
+  {
+    "id": "52ed7e51ebfa9b4641000004",
+    "name": "hackPR Spring 2014",
+    "slug": "hackpr-spring-2014",
+    "description": "HackPR is Puerto Rico’s biggest student hackathon held at the University of Puerto Rico, Mayagüez Campus. Students who share a passion for coding gather from around the island to develop mobile, web, native and hardware applications during a period of 24 hours. Last year, in its second appearance, HackPR received an audience of over 125 developers and the support of top tier companies such as GitHub, Google, Microsoft, Red Hat, Evernote, among others.\r\n\r\nThis year, HackPR will start on Saturday, March 29 2014 and end on Sunday, March 30, 2014. We are expecting over 300 participants from Puerto Rico’s local universities, high schools and startup community (SoPR). Food, Beverages (and energy drinks!), and SWAG will be provided to the participants!",
+    "external_url": "http://hackpr.io/",
+    "state": "complete",
+    "start_time": "2014-03-29T18:00:00Z",
+    "end_time": "2014-03-30T18:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52ed7e51ebfa9b4641000004/original.png?1391296073",
+    "students_only": false,
+    "total_hackers": 82,
+    "total_hacks": 27,
+    "location": {
+      "city": "Mayagüez",
+      "state": "PR",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/hackpr-spring-2014"
+  },
+  {
+    "id": "5319fdc7d13b036ebb000004",
+    "name": "Driving Innovation Hackathon - Presented by Toyota",
+    "slug": "driving-innovation-hackathon-presented-by-toyota",
+    "description": "Calling All Hackers: Does coding make your heart skip a beat? Does a programming binge sound like an ideal weekend? Want to work with other hackers and collaborate on creating new games? Want to compete against the best of the best in game development and be featured by Black Enterprise? Of course you do.\r\n\r\nThis month, Black Enterprise presents its Driving Innovation Hackathon competition, \"Technology Making a Better Life,\" sponsored by Toyota.\r\n\r\nAs the first African American-focused media company to host a hackathon, we're proud to showcase the diversity in the hacker community. Thanks to Toyota, the Hackathon will focus on making engaging games.\r\n\r\nTop tech and business leaders will serve as judges, offering advice and ultimately choosing a winner who will be featured in Black Enterprise magazine and in BlackEnterprise.com.\r\n\r\nPut your skills to the test in the ultimate competition for hackers, coders, and programmers at Black Enterprise's headquarters from Saturday, March 29 at 9 a.m. to Sunday, March 30th at 10 a.m.\r\n\r\nWe'll also be live tweeting and streaming the Hackathon, and of course, food and drink will be provided for participants.\r\n\r\nDuring the event, you can show support on Twitter via hashtag #drivinginnovation.\r\n\r\nTwitter\r\ntwitter.com/blackenterprise\r\n\r\nPRIZES FOR WINNING TEAM\r\n\r\n- Feature in Black Enterprise Magazine and on BlackEnterprise.com\r\n- $200 membership from Udemy.com\r\n- Executive summaries, pitch consultations, and discounts on cloud storage space and a pro account from bithouse.me\r\n\r\nWHERE\r\n260 Madison Ave 11th Floor\r\nNew York, NY 10016\r\n\r\nWHEN\r\nMarch 29th at 9AM to March 30th at 12 noon.\r\n\r\nJUDGES\r\n\r\nKyle Wanamaker (Tumblr)\r\n\r\nMalcolm Jones (Adobe, Behance)\r\n\r\nSumit Gupta (NYU, Siemens)\r\n\r\nEric Hamilton (Silicon Harlem)\r\n\r\nChristina Lewis Halpern (All Star Code)\r\n\r\nKalimah Priforce (Qeyno Labs)",
+    "external_url": "",
+    "state": "complete",
+    "start_time": "2014-03-29T13:00:00Z",
+    "end_time": "2014-03-30T16:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5319fdc7d13b036ebb000004/original.jpg?1394802696",
+    "students_only": false,
+    "total_hackers": 28,
+    "total_hacks": 4,
+    "location": {
+      "city": "New York",
+      "state": "New York",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/driving-innovation-hackathon-presented-by-toyota"
+  },
+  {
+    "id": "5336a64004b9035c97000002",
+    "name": "FinTech Hackathon powered by Aviva",
+    "slug": "fintech-hackathon-powered-by-aviva",
+    "description": "THE EVENT\r\n=======\r\n\r\nHack FinTech. Build Awesome. Keep your IP. Such wow.\r\n3beards are putting on a FinTech Hackathon, powered by Aviva and it’s going to be epic.\r\nFrom Foursquare powered travel insurance to Dogecoin taxis to Snapchat bank statements, we want you to put your mouth where your money is and pitch, develop and build a FinTech hack over the weekend of 28th - 30th March in London.\r\nThis event is about connecting the best and brightest developers, entrepreneurs, designers, marketers, product managers and StartUp enthusiasts to come together to share ideas, form teams, build products, and launch StartUps. Whether you’ve got the beginnings an idea, or have a vested business with some innovative products or proposals if it’s FinTech related – we want to hear from you!\r\n\r\nTHE BRIEF\r\n=======\r\n\r\nIn true 3beards style, the brief is wide open, if it’s Fin and it’s Tech then we want you!\r\nWe're looking for disruptive breakthrough innovation and working MVPs (Minimum Viable Products) by the end of the weekend.\r\n\r\nTEAM ENTRY\r\n=======\r\n\r\nhttps://docs.google.com/forms/d/1xOhFmepQhWeIRWJCBYNHH79gYONWCDtEi5OZ-FZasrY/viewform\r\n\r\nSEE PREVIOUS RESPONSES\r\n=======\r\n\r\nhttps://docs.google.com/forms/d/1xOhFmepQhWeIRWJCBYNHH79gYONWCDtEi5OZ-FZasrY/viewanalytics\r\n\r\nEDIT YOUR RESPONSE\r\n=======\r\n\r\nhttps://docs.google.com/forms/d/1xOhFmepQhWeIRWJCBYNHH79gYONWCDtEi5OZ-FZasrY/viewform?edit=ChM1NjczMzYwMjYxOTY2ODI2NjA1EMSd06Daqs2xUw",
+    "external_url": "http://www.eventbrite.co.uk/e/fintech-hackathon-powered-by-aviva-tickets-10686344143",
+    "state": "complete",
+    "start_time": "2014-03-28T18:00:00Z",
+    "end_time": "2014-03-30T15:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5336a64004b9035c97000002/original.png?1396090427",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "London",
+      "state": "London",
+      "country": "England"
+    },
+    "url": "http://hackerleague.org/hackathons/fintech-hackathon-powered-by-aviva"
+  },
+  {
+    "id": "52f8ded6638af64890000002",
+    "name": "Mobile R&D Hackathon",
+    "slug": "mobile-r-and-d-hackathon",
+    "description": "Explore the possibilities of creating mobile apps with various different platforms such as Xamarin, Titanium, and PhoneGap.",
+    "external_url": "",
+    "state": "complete",
+    "start_time": "2014-03-28T20:00:00Z",
+    "end_time": "2014-03-30T13:10:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52f8ded6638af64890000002/original.png?1392041683",
+    "students_only": false,
+    "total_hackers": 4,
+    "total_hacks": 0,
+    "location": {
+      "city": "Deerfiend Beach",
+      "state": "FL",
+      "country": "US"
+    },
+    "url": "http://hackerleague.org/hackathons/mobile-r-and-d-hackathon"
+  },
+  {
+    "id": "5319301f981e5497f4000004",
+    "name": "Hack Against Slavery",
+    "slug": "hack-against-slavery",
+    "description": "\r\n\r\nDuring this event some prompts for tools to help fight slavery will be presented.  Then we will go to work.  \r\n\r\nPrompt 1)\r\nLabor trafficking vertical - a policy analysis, an industry analysis:\r\n \r\nThis would an analysis of the businesses and areas that labor trafficking is most prevalent.  Here we would be looking at both case studies of past businesses that have been found guilty and looking for common themes.  Additionally we'd see if there are any explanatory geographic features which encourage slavery, like wide open spaces versus the city.  Finally, we'd look at policy questions like, what laws work best to keep rates down?\r\n \r\nPrompt 2)\r\n \r\nReporting - a mobile app:\r\n \r\nThis tool would allow people to quickly report an incidence of human trafficking.  They could optionally upload a picture and an extended description of the type of trafficking they witnessed.  A short message, the location of the text, and the date of incidence would be required.\r\n\r\nSignup:\r\nhttp://www.eventbrite.com/e/hacking-against-slavery-tickets-10821953755",
+    "external_url": "http://www.eventbrite.com/e/hacking-against-slavery-tickets-10821953755",
+    "state": "complete",
+    "start_time": "2014-03-29T16:00:00Z",
+    "end_time": "2014-03-30T04:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5319301f981e5497f4000004/original.jpg?1394159645",
+    "students_only": false,
+    "total_hackers": 4,
+    "total_hacks": 0,
+    "location": {
+      "city": "New York",
+      "state": "New York",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/hack-against-slavery"
+  },
+  {
+    "id": "5324b895e2465a0cc8000005",
+    "name": "Problem Solved! Hackathon DC",
+    "slug": "problem-solved-hackathon-dc",
+    "description": "Student Dream is holding our first hackathon from March 28th to 29th and we’re doing it in DC! With the theme “Problem Solved!”, this event will empower community members to share their challenges and concerns with young innovators who will develop solutions to the problems that inspire them most. The best solutions will contend for various prizes and awards.  \r\n\r\nJoin us in a few weeks! Participate, connect, and use your ideas to solve real problems. You’re incredible and we want to see you in person, in DC!\r\n\r\nNOTE: Your registration is not final unless you register at:\r\n\r\nwww.problemsolveddc.eventbrite.com\r\n\r\nHurry before tickets run out! \r\n\r\nOrganizers: \r\nNena Ugwuomo - nena@studentdream.co\r\nNelson Igunma - nelson@studentdream.co",
+    "external_url": "problemsolveddc.eventbrite.com",
+    "state": "complete",
+    "start_time": "2014-03-28T21:00:00Z",
+    "end_time": "2014-03-30T01:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5324b895e2465a0cc8000005/original.png?1394915475",
+    "students_only": false,
+    "total_hackers": 1,
+    "total_hacks": 0,
+    "location": {
+      "city": "Washington ",
+      "state": "District of Columbia ",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/problem-solved-hackathon-dc"
+  },
+  {
+    "id": "5306550063e069853d00001d",
+    "name": "San Francisco Voting Information Project Hackathon",
+    "slug": "san-francisco-voting-information-project-hackathon",
+    "description": "**Important:** To attend, please also register [here](https://www.cvent.com/events/san-francisco-voting-information-project-hackathon/registration-307f3c2abc6646b3a473b532b68e4100.aspx).\r\n\r\nThe Voting Information Project (VIP) invites you as developers and designers to leverage the power of open data during this election year at our upcoming [hackathon] (https://hackathon.votinginfoproject.org/) on March 28th and 29th at the Impact Hub in San Francisco. If you could create an application that taps into a massive amount nationwide election information, what would you build? How would you use Google Civic Information API’s VIP data to help potential voters become more informed about their upcoming elections? Do you have a vision for reinventing an existing VIP application? Our goal is to come together to make this civic data more accessible and usable for eligible voters, as well as state and local elections officials.\r\n\r\n**Event Location:**\r\n\r\n[Impact Hub](https://www.google.com/maps/place/901+Mission+St+%23105/@37.7824137,-122.4066171,15z/data=!4m2!3m1!1s0x8085808699b74fcd:0x5502089b8db615a5 \"Impact Hub\")\r\n901 Mission Street, Suite 105\r\nSan Francisco, CA 94103",
+    "external_url": "https://hackathon.votinginfoproject.org/",
+    "state": "complete",
+    "start_time": "2014-03-28T23:00:00Z",
+    "end_time": "2014-03-29T22:30:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5306550063e069853d00001d/original.png?1392923956",
+    "students_only": false,
+    "total_hackers": 34,
+    "total_hacks": 6,
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/san-francisco-voting-information-project-hackathon"
+  },
+  {
+    "id": "532daa9faff3592daa00001d",
+    "name": "Berlin Mini Game Dev Jam March 2014",
+    "slug": "berlin-mini-game-dev-jam-march-2014",
+    "description": "Berlin Mini Game Jam is a relaxed 8 hour prototyping workshop: After we have chosen a theme together, we form teams or go solo to make game graphics, concepts and prototypes on computers, phones, cardboard or physical space. At the end, we present the results to each other.\r\n\r\nLocation: co.up coworking Adalbertstr. 8, 10999 Berlin\r\nMeetup: http://www.meetup.com/game-developers-berlin/events/168995382/\r\nFacebook: https://www.facebook.com/events/1406048236321881/\r\n\r\nDo whatever you want, just bring any materials you need.\r\n\r\nEveryone is welcome! Really! Artists, game designers, coders, hobbyists or professionals, any gender, any background! And we regularly have new people, so don't worry if you don't know anybody: You're quite welcome too.\r\n\r\nThere is no participation fee thanks to co.up coworking. You can return their kindness by buying some of their 1.50€ drinks!\r\n\r\nWe have a Facebook group too, by the way: Berlin Game Developers Meet-Up.",
+    "external_url": "http://berlinminijam.de",
+    "state": "complete",
+    "start_time": "2014-03-29T11:00:00Z",
+    "end_time": "2014-03-29T19:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/532daa9faff3592daa00001d/original.png?1395501722",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany"
+    },
+    "url": "http://hackerleague.org/hackathons/berlin-mini-game-dev-jam-march-2014"
+  },
+  {
+    "id": "533059784c8a663c86000013",
+    "name": "Hacking the Quantified Self",
+    "slug": "hacking-the-quantified-self",
+    "description": "Join us as we bring together developers, designers and healthcare practitioners to hack the quantified self! &nbsp;Attendees will be exposed to new open source software packages that promise to change the way we connect with our own personal health information. &nbsp;Developers from all projects will be on-hand to answer questions and assist in development ideas.\r\n\r\n<p>This event is being held in conjunction with the <a href=\"http://www.kitware.com/blog/home/post/630\" target=\"_blank\">SUNY's Open Source Festival</a>.</p>\r\n<p><strong>Activities:</strong></p>\r\n\r\n<p><span style=\"text-decoration: underline;\">Activity 1:</span> Hacking HEPCAT (Healthboard Personal Conditions Tracker) - join us as we further develop the HEPCAT application, a custom quantified self tracker application designed to allow individuals to compare and contrast healthcare data coming from a variety of sources: self-reported, device-centric, or clinician provided.</p>\r\n\r\n<p><span style=\"text-decoration: underline;\">Activity 2:</span> EWD (Enterprise Web Developer) &amp; VistA Reimagined - join designers, developers and system architects as we rethink the delivery of EMR data in the US' most widely utilized EMR - VistA, which serves nearly 9 million veterans worldwide. &nbsp;</p>\r\n\r\n<p><span style=\"text-decoration: underline;\">Activity 3:</span>&nbsp;Work with our designers as we imagine what futuristic patient-driven EMR screens might look like. &nbsp;We welcome your input on designing interfaces that could change the way we access our own health data and derive meaningful insight from it.</p>\r\n\r\n<p><strong>Sponsors:</strong></p>\r\n<p><span style=\"background-color: rgba(255, 255, 255, 0); color: #222222; font-family: arial, sans-serif;\"><a href=\"http://piim.newschool.edu\">Parsons Institute for Information Mapping</a>, <a href=\"http://parsons.newschool.edu\">Parsons The New School for Design</a>, <a href=\"http://www.albany.edu\">SUNY Albany</a>, <a href=\"http://icahn.mssm.edu/\"><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 13px;\">Icahn School of Medicine at Mount Sinai</span></a>, <a href=\"http://www.osehra.org\">OSEHRA (Open Source Electronic Health Records Alliance)</a></span></p>\r\n<p><strong><span style=\"background-color: rgba(255, 255, 255, 0); color: #222222; font-family: arial, sans-serif;\">Resources:</span></strong></p>\r\n\r\n<p><span style=\"background-color: rgba(255, 255, 255, 0); color: #222222; font-family: arial, sans-serif;\">Eager to get a jump on things before Friday? &nbsp;Check out this list of resources to get started:</span></p>\r\n\r\n<p><a href=\"http://healthdesignchallenge.com/\">Health Design Challenge</a> - reimagining the patient health record</p>\r\n<p>HEPCAT GitHub Repo -&nbsp;https://github.com/piim/patient-tracker</p>\r\n<p>Enterprise Web Development (EWD) - <a href=\"http://robtweed.wordpress.com/2014/03/02/ewd-js-vista-a-technical-deep-dive-into-the-vista-demo-application/\">EWD.JS &amp; VistA: A technical deep-dive into the VistA demo application</a></p>",
+    "external_url": "http://events.newschool.edu/event/hacking_the_quantified_self#.UzA8PfldV8E",
+    "state": "complete",
+    "start_time": "2014-03-28T13:00:00Z",
+    "end_time": "2014-03-28T20:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/533059784c8a663c86000013/original.png?1395677556",
+    "students_only": false,
+    "total_hackers": 10,
+    "total_hacks": 1,
+    "location": {
+      "city": "New York",
+      "state": "NY",
+      "country": "US"
+    },
+    "url": "http://hackerleague.org/hackathons/hacking-the-quantified-self"
+  },
+  {
+    "id": "5306a42b95a498b91e000001",
+    "name": "ACM @ UCF Conference",
+    "slug": "acm-at-ucf-conference",
+    "description": "ACM @ UCF hosts a conference in the Pegasus Ballroom at UCF. The conference features tech talks from top companies in the Computing industry, a tech job fair, and a Panel starring professionals in the field from UCF and our our guest companies.",
+    "external_url": "",
+    "state": "complete",
+    "start_time": "2014-03-28T12:00:00Z",
+    "end_time": "2014-03-28T19:30:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5306a42b95a498b91e000001/original.jpg?1392944168",
+    "students_only": false,
+    "total_hackers": 1,
+    "total_hacks": 0,
+    "location": {
+      "city": "Orlando",
+      "state": "Florida",
+      "country": "United States of America"
+    },
+    "url": "http://hackerleague.org/hackathons/acm-at-ucf-conference"
+  },
+  {
+    "id": "532de7423986bfb2e1000019",
+    "name": "API Hack Day São Paulo - 2014",
+    "slug": "api-hack-day-sao-paulo-2014",
+    "description": "API Hackday São Paulo brings developers together for an all-day coding fest focused on building apps and mashups with APIs. Developers of all experience levels can share ideas, collaborate on existing projects, start new ventures, and find out about great tools and new APIs to play with.\r\nFree admission: Lunch, Dinner and post-hack lunch.\r\nHackers will also hear from some of the country's top API-focused companies on tips, tricks, and tools for building the next big app. At the end of the day, teams and/or individuals get a chance to present their work to a panel of judges and win kickass prizes.\r\n\r\nThe event will be held at the Wayra Accelerator in Sao Paulo..\r\n\r\nBrought to you by [Sendgrid](http://sendgrid.com), [Wayra](http://wayra.org/), [Twitter](http://twitter.com), [AWS](http://aws.amazon.com), [Send With Us](https://www.sendwithus.com) e [Editora Novatec](http://novatec.com.br).\r\n\r\nTweet about it using [#apihackday](https://twitter.com/search?q=%23apihackday)",
+    "external_url": "http://www.eventick.com.br/apihackdaysp2014",
+    "state": "complete",
+    "start_time": "2014-03-22T12:00:00Z",
+    "end_time": "2014-03-25T23:20:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/532de7423986bfb2e1000019/original.jpg?1395517247",
+    "students_only": false,
+    "total_hackers": 12,
+    "total_hacks": 2,
+    "location": {
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil"
+    },
+    "url": "http://hackerleague.org/hackathons/api-hack-day-sao-paulo-2014"
+  },
+  {
+    "id": "532f304b388213b4a200001e",
+    "name": "Music Tech Fest Boston",
+    "slug": "music-tech-fest-boston",
+    "description": "Music Tech Fest comes to Microsoft Research Labs on 21-23 March as part of its world tour. Alongside a full programme of presentations, demos and performances from some of the best music tech minds, research institutions and innovative companies, we are also running a hackathon starting at midday Saturday with a prizegiving on Sunday afternoon.\r\n\r\nWith piles of toys to play with - from Surfaces, Kinects, and Xboxes to Arduinos, sensors and all manner of components - and some fantastic hack challenges and prizes.\r\n\r\nStarting at Microsoft Research on Saturday at noon, and migrating to the incredible Redstar Union venue overnight, the hackathon will be unlike any you’ve ever attended. LJ Rich from BBC Click will be joining the hackathon, taking part and filming a special edition of the BBC Worldwide TV show as part of the event. We have musicians on hand to collaborate for performance-based hacks. We have free t-shirts and snacks.\r\n\r\nNow we just need you. Sign up here to participate in the Music Tech Fest Boston Hackathon. We’re going to get together on Friday the 21st for a briefing at 2pm at Microsoft Research - and then the hackathon commences at noon on Saturday. See you there!",
+    "external_url": "",
+    "state": "complete",
+    "start_time": "2014-03-22T16:00:00Z",
+    "end_time": "2014-03-24T05:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/532f304b388213b4a200001e/original.jpg?1395601481",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/music-tech-fest-boston"
+  },
+  {
+    "id": "52e822a0ad77bc00bd00000c",
+    "name": "Go Code Colorado Challenge Weekend in Boulder",
+    "slug": "go-code-colorado-challenge-weekend-in-boulder",
+    "description": "Whether you are a developer, designer, marketer, thinker, entrepreneur or a general doer, it doesn’t matter — Colorado needs you! Building successful, sustainable apps with public data that local businesses can actually use will require all kinds of folks helping. This is hands-on economic development.\r\n\r\nYour B2B apps will help your local community and support businesses throughout Colorado. And while we cannot guarantee your everlasting fame and success, you’ll also have a chance to earn awards.\r\n\r\nDevelop apps, drive change, have fun, and collaborate with Colorado’s best and brightest.\r\n\r\nRSVP here: http://bit.ly/1nf5DG5",
+    "external_url": "http://gocode.colorado.gov/events/challenge-weekend/boulder/",
+    "state": "complete",
+    "start_time": "2014-03-22T00:00:00Z",
+    "end_time": "2014-03-24T02:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52e822a0ad77bc00bd00000c/original.png?1390944923",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Boulder",
+      "state": "Colorado",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/go-code-colorado-challenge-weekend-in-boulder"
+  },
+  {
+    "id": "52e8248cd104912a3800000c",
+    "name": "Go Code Colorado Challenge Weekend in Fort Collins",
+    "slug": "go-code-colorado-challenge-weekend-in-fort-collins",
+    "description": "Whether you are a developer, designer, marketer, thinker, entrepreneur or a general doer, it doesn’t matter — Colorado needs you! Building successful, sustainable apps with public data that local businesses can actually use will require all kinds of folks helping. This is hands-on economic development.\r\n\r\nYour B2B apps will help your local community and support businesses throughout Colorado. And while we cannot guarantee your everlasting fame and success, you’ll also have a chance to earn awards.\r\n\r\nDevelop apps, drive change, have fun, and collaborate with Colorado’s best and brightest.\r\n\r\nRSVP here: http://bit.ly/1iHXUQw",
+    "external_url": "http://gocode.colorado.gov/events/challenge-weekend/fort-collins/",
+    "state": "complete",
+    "start_time": "2014-03-22T00:00:00Z",
+    "end_time": "2014-03-24T02:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52e8248cd104912a3800000c/original.png?1390945414",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Fort Collins",
+      "state": "Colorado",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/go-code-colorado-challenge-weekend-in-fort-collins"
+  },
+  {
+    "id": "52e825e3ad77bc00bd00000f",
+    "name": "Go Code Colorado Challenge Weekend in Grand Junction",
+    "slug": "go-code-colorado-challenge-weekend-in-grand-junction",
+    "description": "Whether you are a developer, designer, marketer, thinker, entrepreneur or a general doer, it doesn’t matter — Colorado needs you! Building successful, sustainable apps with public data that local businesses can actually use will require all kinds of folks helping. This is hands-on economic development.\r\n\r\nYour B2B apps will help your local community and support businesses throughout Colorado. And while we cannot guarantee your everlasting fame and success, you’ll also have a chance to earn awards.\r\n\r\nDevelop apps, drive change, have fun, and collaborate with Colorado’s best and brightest.\r\n\r\nRSVP here: http://bit.ly/1jFJWig",
+    "external_url": "http://gocode.colorado.gov/events/challenge-weekend/grand-junction/",
+    "state": "complete",
+    "start_time": "2014-03-22T00:00:00Z",
+    "end_time": "2014-03-24T02:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52e825e3ad77bc00bd00000f/original.png?1390945753",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Grand Junction",
+      "state": "Colorado",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/go-code-colorado-challenge-weekend-in-grand-junction"
+  },
+  {
+    "id": "52e8268c38fa08ab1f00000f",
+    "name": "Go Code Colorado Challenge Weekend in Colorado Springs",
+    "slug": "go-code-colorado-challenge-weekend-in-colorado-springs",
+    "description": "Whether you are a developer, designer, marketer, thinker, entrepreneur or a general doer, it doesn’t matter — Colorado needs you! Building successful, sustainable apps with public data that local businesses can actually use will require all kinds of folks helping. This is hands-on economic development.\r\n\r\nYour B2B apps will help your local community and support businesses throughout Colorado. And while we cannot guarantee your everlasting fame and success, you’ll also have a chance to earn awards.\r\n\r\nDevelop apps, drive change, have fun, and collaborate with Colorado’s best and brightest.\r\n\r\nRSVP here: http://bit.ly/1f9FtyI",
+    "external_url": "http://gocode.colorado.gov/events/challenge-weekend/colorado-springs/",
+    "state": "complete",
+    "start_time": "2014-03-22T00:00:00Z",
+    "end_time": "2014-03-24T02:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52e8268c38fa08ab1f00000f/original.png?1390945928",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/go-code-colorado-challenge-weekend-in-colorado-springs"
+  },
+  {
+    "id": "52e8275e9fd19b61bb00000e",
+    "name": "Go Code Colorado Challenge Weekend in Durango",
+    "slug": "go-code-colorado-challenge-weekend-in-durango",
+    "description": "Whether you are a developer, designer, marketer, thinker, entrepreneur or a general doer, it doesn’t matter — Colorado needs you! Building successful, sustainable apps with public data that local businesses can actually use will require all kinds of folks helping. This is hands-on economic development.\r\n\r\nYour B2B apps will help your local community and support businesses throughout Colorado. And while we cannot guarantee your everlasting fame and success, you’ll also have a chance to earn awards.\r\n\r\nDevelop apps, drive change, have fun, and collaborate with Colorado’s best and brightest.\r\n\r\nRSVP here: http://bit.ly/1k37ewj",
+    "external_url": "http://gocode.colorado.gov/events/challenge-weekend/durango/",
+    "state": "complete",
+    "start_time": "2014-03-22T00:00:00Z",
+    "end_time": "2014-03-24T02:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52e8275e9fd19b61bb00000e/original.png?1390946139",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Durango",
+      "state": "Colorado",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/go-code-colorado-challenge-weekend-in-durango"
+  },
+  {
+    "id": "52b877b24d0df95b3c000001",
+    "name": "HackerBowl 2014",
+    "slug": "hackerbowl-2014",
+    "description": "Visit our [website] (http://hackerbowl.io) for details, registration, and sponsor information. \r\n\r\nFor 24 hours, individuals and teams from Texas schools including Texas A&M, University of Texas, Rice University, Baylor University, and University of Houston will compete for the Bowl Trophy to determine this year’s Texas school with the best up and coming programmers and designers. The winning school will have their names inscribed on the trophy before bringing it back to their school to showcase until next year’s Hacker Bowl.",
+    "external_url": "http://hackerbowl.io",
+    "state": "complete",
+    "start_time": "2014-03-22T19:00:00Z",
+    "end_time": "2014-03-23T23:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52b877b24d0df95b3c000001/original.png?1387820973",
+    "students_only": false,
+    "total_hackers": 1,
+    "total_hacks": 0,
+    "location": {
+      "city": "College Station",
+      "state": "TX",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/hackerbowl-2014"
+  },
+  {
+    "id": "52def62e4fdd568baa00001b",
+    "name": "MIA Music HackDay",
+    "slug": "mia-music-hackday",
+    "description": "MIA Music HackDay will be Miami's first hackathon specifically for the music industry. Over a dozen APIs to tinker with including MusicGraph, Choose Digital, 3Scale, Gracenote, MediaNet, and Spotify. \r\n\r\nComes as a team or go at it on your own, prizes will be awarded for a variety challenges and the top 5 hacks will be invited to participate at the MIA Music Summit on March 24th at the New World Center on Miami Beach.\r\n\r\nVenue\r\n====================\r\n\r\nThe MIA Music HackDay will take place March 22nd and 23, 2014 at: \r\n\r\nThe LAB Miami\r\n400 NW 26th Street\r\nMiami, FL 33127\r\n\r\nTo Participate\r\n====================\r\n<ol>\r\n<li>1. Register [Here](www.eventbrite.com/e/mia-music-hackday-tickets-10365993967)</li>\r\n<li>2. Remember to fill out the skills survey sent out 1 week before the event</li>\r\n<li>3. Show up on March 22nd and hack away!</li>\r\n</ol>",
+    "external_url": "http://hackday.mms.co",
+    "state": "complete",
+    "start_time": "2014-03-22T13:00:00Z",
+    "end_time": "2014-03-23T22:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52def62e4fdd568baa00001b/original.png?1390343724",
+    "students_only": false,
+    "total_hackers": 39,
+    "total_hacks": 3,
+    "location": {
+      "city": "Miami",
+      "state": "FL",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/mia-music-hackday"
+  },
+  {
+    "id": "53288f12eb44115930000004",
+    "name": "Rentah Hackathon #2!!! AWESOME EVENT",
+    "slug": "rentah-hackathon-number-2-awesome-event",
+    "description": "Rentah is a Brooklyn based tech start-up looking for developers to help us roll out our peer-to-peer rental platform in the coming weeks. Founded in partnership with the Danish rental site Lejdet.com, Rentah seeks to promote and enhance the emerging shared economy by allowing individuals, businesses, and freelancers rent out their goods, services, and spaces at a price of their choosing.\r\n\r\nAs we move into the final stages of our site creation, we will be hosting a HACKATHON at our HQ in Greenpoint, Brooklyn. This 48 hour event event will run from March 21-23 beginning and ending at 6pm sharp. Join the Rentah team and other like minded coders for food, drink, music, and a chance to become part of our company.\r\n\r\nAll participants will receive $200, and the top performers will be given $400 and opportunities for permanent employment in this emerging start-up.\r\n\r\nWe are looking for people with experience in .NET and C#. If this sounds up your alley, send us some info about yourself.\r\nThere are limited spaces for this event so wait too long!\r\n\r\nContact us - info@rentah.com \r\n\r\nIf you have any questions feel free to shoot us an e-mail.",
+    "external_url": "facebook.com/rentahlove",
+    "state": "complete",
+    "start_time": "2014-03-21T22:00:00Z",
+    "end_time": "2014-03-23T22:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/53288f12eb44115930000004/original.jpg?1395166988",
+    "students_only": false,
+    "total_hackers": 3,
+    "total_hacks": 0,
+    "location": {
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/rentah-hackathon-number-2-awesome-event"
+  },
+  {
+    "id": "527c4adb810bfe9552000019",
+    "name": "hackBCA",
+    "slug": "hackbca",
+    "description": "**Unleash A New Generation.**\r\nBuilt By High Schoolers, For High Schoolers\r\n\r\nBe sure to sign up on [Eventbrite](https://www.eventbrite.com/event/8914905723)!\r\n\r\nSpend 24 hours making something totally tubular.\r\nWhether that means slinging mad code, producing hard beats, or even hacking together a sentient robot, as long as you make something you can qualify to win prizes!\r\n \r\nContact us for more information at [contact@hackbca.com](contact@hackbca.com) or visit us on the web at [www.hackbca.com](www.hackbca.com)",
+    "external_url": "http://hackbca.com/",
+    "state": "complete",
+    "start_time": "2014-03-22T18:00:00Z",
+    "end_time": "2014-03-23T19:30:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/527c4adb810bfe9552000019/original.jpg?1384226202",
+    "students_only": false,
+    "total_hackers": 17,
+    "total_hacks": 0,
+    "location": {
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/hackbca"
+  },
+  {
+    "id": "5329084a490b8f9147000001",
+    "name": "Pearl Hacks",
+    "slug": "pearl-hacks",
+    "description": "A hackathon for high school and college girls at UNC-Chapel Hill focused on building community and stretching beyond your comfort zone. We have a heavy focus on mentorship with 50 mentors from our sponsoring tech companies!",
+    "external_url": "http://pearlhacks.com",
+    "state": "complete",
+    "start_time": "2014-03-22T19:00:00Z",
+    "end_time": "2014-03-23T17:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5329084a490b8f9147000001/original.png?1395198023",
+    "students_only": false,
+    "total_hackers": 46,
+    "total_hacks": 26,
+    "location": {
+      "city": "Chapel Hill",
+      "state": "NC",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/pearl-hacks"
+  },
+  {
+    "id": "52fa2a4be55c22e661000003",
+    "name": "Media Hack Day 2014",
+    "slug": "media-hack-day-2014",
+    "description": "**Awesome Hacks and awesome [Winners](https://www.hackerleague.org/hackathons/media-hack-day-2014/wikipages/5325dc7cd5d3bf64f3000006). Thanks to everyone for taking part and making MediaHackDay 2014 a success**\r\n\r\n**The Challenge** \r\nThe world of publishing is changing. Rapid advances in mobile technology and a spirit of innovation have transformed almost all aspects of newspapers and news media.\r\n\r\n**The Mission** \r\nJoin our Media Hack Day and find new ways to reinvent and reengineer content for the mobile age. The hackathon will bring together creative programmers, designers, tech-savvy journalists and product visionaries. Join us if you are an individual developer, designer or established hackathon team.\r\n\r\n**The Reward**\r\nThe Mediahackday takes place as a warm up for Digital Innovator’s Summit 2014. Prizes, an international jury and the praise from the startup community and media owners are waiting. Already got an inspiring idea? Post it at this site so others can see and join your team. \r\n\r\n**Participation**\r\nGet your free Ticket for Participation [here](https://www.eventbrite.com/e/mediahackday-2014-tickets-10586014053).\r\nMore information on our [Website](https://www.eventbrite.com/e/media-hack-day-2014-tickets-10586014053).",
+    "external_url": "http://mediahackday.com/",
+    "state": "complete",
+    "start_time": "2014-03-22T08:00:00Z",
+    "end_time": "2014-03-23T11:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52fa2a4be55c22e661000003/original.png?1392126537",
+    "students_only": false,
+    "total_hackers": 74,
+    "total_hacks": 17,
+    "location": {
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany"
+    },
+    "url": "http://hackerleague.org/hackathons/media-hack-day-2014"
+  },
+  {
+    "id": "532de4f4aff3592daa000025",
+    "name": "Make_BU",
+    "slug": "make-bu",
+    "description": "Sign up here: http://www.eventbrite.com/e/make-bu-tickets-8437395477\r\n\r\n \r\n\r\nWe are throwing an EPIC (literally) hackathon at BU. Come spend 24 hours building something cool alongside your friends and classmates. Join in on web, mobile, and hardware development lectures. Learn new skills, meet new people, build a project, and have fun!\r\n",
+    "external_url": "",
+    "state": "complete",
+    "start_time": "2014-03-22T19:30:00Z",
+    "end_time": "2014-03-22T21:30:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/532de4f4aff3592daa000025/original.png?1395516656",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/make-bu"
+  },
+  {
+    "id": "530e9e82dc3e9250cb000008",
+    "name": "She Hacks",
+    "slug": "she-hacks",
+    "description": "She Hacks is an all-women hackathon event run by women. In 2014 the event will be run on the 21st-22nd March in both Sydney and Melbourne.",
+    "external_url": "http://www.shehacks.io/",
+    "state": "complete",
+    "start_time": "2014-03-21T07:00:00Z",
+    "end_time": "2014-03-22T07:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/530e9e82dc3e9250cb000008/original.jpeg?1393467007",
+    "students_only": false,
+    "total_hackers": 30,
+    "total_hacks": 12,
+    "location": {
+      "city": "Melbourne / Sydney",
+      "state": "VIC / NSW",
+      "country": "Australia"
+    },
+    "url": "http://hackerleague.org/hackathons/she-hacks"
+  },
+  {
+    "id": "531aee111315dadd40000001",
+    "name": "BITS Hackathon",
+    "slug": "bits-hackathon",
+    "description": "The first Hackathon of BITS Pilani Goa Campus, conducted in association with ASCII and ACM BITS Pilani Goa students chapter.",
+    "external_url": "",
+    "state": "complete",
+    "start_time": "2014-03-19T03:30:00Z",
+    "end_time": "2014-03-21T15:30:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/531aee111315dadd40000001/original.png?1394274515",
+    "students_only": true,
+    "total_hackers": 7,
+    "total_hacks": 4,
+    "location": {
+      "city": "Goa",
+      "state": "Goa",
+      "country": "India"
+    },
+    "url": "http://hackerleague.org/hackathons/bits-hackathon"
+  },
+  {
+    "id": "52f2c86df7726c31e3000018",
+    "name": "Hack for Pasadena",
+    "slug": "hack-for-pasadena",
+    "description": "Hack for Pasadena is two-days of open-sourced talks and hands-on problem solving, to re-imagine the way the web, applications, technology, and community participation will shape the future of the City of Pasadena. Help solve the city's biggest challenges like homelessness, transportation, crime, affordable housing and public safety, to beautification projects and business ideas that will make the city more livable.\r\n \r\nAnyone can pitch an idea or problem. From there, small groups form to brainstorm solutions and start tackling the issue with design and code. Publicly accessible data sets will be used to support the solutions. At the end of two days, each group will present a workable solution that improves the daily life for real people in our community.\r\n\r\nVisit www.hackforpasadena.com for more information on the event, including rules, prizes, sponsorship and volunteer opportunities.  \r\n\r\nEvent Registration at \r\nhttp://hackforpasadena.eventbrite.com",
+    "external_url": "www.hackforpasadena.com",
+    "state": "complete",
+    "start_time": "2014-03-15T17:00:00Z",
+    "end_time": "2014-03-17T00:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52f2c86df7726c31e3000018/original.jpg?1391642731",
+    "students_only": false,
+    "total_hackers": 2,
+    "total_hacks": 1,
+    "location": {
+      "city": "Pasadena",
+      "state": "CA",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/hack-for-pasadena"
+  },
+  {
+    "id": "53071f11790fdcb816000005",
+    "name": "Media Hackathon",
+    "slug": "media-hackathon",
+    "description": "Hack music, media and more...\r\n\r\nMore on http://mediahackathon.be ( Dutch only )",
+    "external_url": "http://mediahackathon.be/",
+    "state": "complete",
+    "start_time": "2014-03-15T09:00:00Z",
+    "end_time": "2014-03-16T15:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/53071f11790fdcb816000005/original.jpg?1392975631",
+    "students_only": false,
+    "total_hackers": 4,
+    "total_hacks": 0,
+    "location": {
+      "city": "Brussels",
+      "state": "Brussels",
+      "country": "Belgium"
+    },
+    "url": "http://hackerleague.org/hackathons/media-hackathon"
+  },
+  {
+    "id": "530a7fe0c22601664a000005",
+    "name": "SXSW Music Hackathon Championship",
+    "slug": "sxsw-music-hackathon-championship",
+    "description": "Introducing the first annual SXSW Music Hackathon Championship, presented by AT&T U-verse with GigaPower, where world-class hackers and designers will have 24 hours to create new tech innovations in the music space for artists, industry, and fans. The SXSW Music Hackathon is FREE and open to the public (with approved RSVP below), and will take place over a 24-hour period beginning at 2:00 p.m. Wednesday, March 12th until 2:00 p.m. Thursday, March 13th at the Hilton Austin Downtown, with the Championship Awards Show to follow on Friday, March 14th.\r\n\r\nUsing their programming know-how and our collection of music-tech APIs, teams will have 24 hours to work on their prototypes and compete for the AT&T Grand Prize of $10,000 plus a grand prize package; 2nd prize of $2,500 and 3rd prize of $1,000. The Hackathon Championship Awards Show will be held on Friday, March 14th from 6:00PM - 7:30PM at Austin Ballroom in Ballroom D, Austin Convention Center with a huge afterparty to follow.\r\n\r\nJudges will include Alex Ebert (frontman for Edward Sharpe and the Magnetic Zeros), Jermaine \"Mack Maine\" Preyan (rapper and President of Young Money Ent.), James Williamson (guitarist for The Stooges/Electrical Engineer) and Stephen White (President of Gracenote). Following the awards, join the winners for an after-party featuring a supergroup of artists.\r\n\r\nTo participate in the first ever SXSW Music Hackathon Championship, please RSVP at http://sxsw.com/music/hackathon . All interested hackers and designers will be reviewed and contacted regarding their selection to participate. (SXSW badge registration is NOT required to participate, but encouraged.)\r\n\r\nThe Music Hackathon Championship is proud to have AT&T U-verse with GigaPower as the event’s presenting sponsor. Further sponsorship and API support comes from Tech Open Air Berlin, Beats Music, Choose Digital, Warner Music Group, Gracenote, Rdio, Senzari, The Echo Nest, Spotify, and more.\r\n\r\nProduced in coordination with Travis Laurendine of CODEMKRS.\r\n\r\nSXSW Music Hackathon Championship\r\nWhen: Wednesday, March 12th - Thursday, March 13th, 2:00PM - 2:00PM\r\nWhere: Hilton Austin Downtown\r\n\r\nSXSW Music Hackathon Championship Awards \r\nWhen: Friday, March 14th, 6:00pm (afterparty to follow)\r\nWhere: Austin Ballroom in Ballroom D, Austin Convention Center",
+    "external_url": "http://sxsw.com/music/hackathon",
+    "state": "complete",
+    "start_time": "2014-03-12T19:00:00Z",
+    "end_time": "2014-03-13T20:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/530a7fe0c22601664a000005/original.jpg?1393197018",
+    "students_only": false,
+    "total_hackers": 80,
+    "total_hacks": 31,
+    "location": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/sxsw-music-hackathon-championship"
+  },
+  {
+    "id": "531de6e0ccd3f225de000006",
+    "name": "Web In the Car",
+    "slug": "web-in-the-car",
+    "description": "This is a concept to bring web technologies into in car devices.\r\n\r\nThe in car device UI is built to be control with speech, to make a call, text message(in progress), listen to music(in progress).\r\n\r\nIt is also able to do data and media communication with other devices using webRTC.",
+    "external_url": "",
+    "state": "complete",
+    "start_time": "2014-03-10T16:17:00Z",
+    "end_time": "2014-03-11T16:17:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/531de6e0ccd3f225de000006/original.JPG?1394468574",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Alpharetta",
+      "state": "Georgia",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/web-in-the-car"
+  },
+  {
+    "id": "52cef9dbac6182b053000016",
+    "name": "Esri Dev Summit Hackathon 2014",
+    "slug": "esri-dev-summit-hackathon-2014",
+    "description": "###Sunday Mar 9 at 1pm through Monday Mar 25 at Noon \r\n\r\n###Register [here!](http://esriurl.com/DevSummitHack)\r\n\r\nHack 'til you can't stand it with [Esri](http://www.esri.com), [SendGrid](http://sendgrid.com),[Twilio](http://twilio.com), [Geofeedia](http:geofeedia.com/), and [Microsoft](http://microsoft.com) creating the most innovative civic app benefitting the Riverside County, CA area! \r\n\r\n![Twilio Logo](http://femgineer.com/wp-content/uploads/2012/11/twilio-logo-300x100.png \"Twilio\")\r\n![SendGrid Logo](http://www.paulsonmanagementgroup.com/media/sendgrid/logo_sendgrid.jpg \"SendGrid\")\r\n![Microsoft Logo](http://c.s-microsoft.com/en-us/CMSImages/mslogo.png?version=856673f8-e6be-0476-6669-d5bf2300391d)\r\n![Geofeedia Logo](https://evbdn.eventbrite.com/s3-s3/eventlogos/23401032/geofeediaevanstonentrepreneursstartupchicago.jpg\")\r\n\r\n\r\nJoin [Esri](http://www.esri.com), [SendGrid](http://sendgrid.com), [Twilio](http://twilio.com), [Geofeedia](http://geofeedia.com/), and [Microsoft](http://microsoft.com) to think outside the box about maps and communication. Use your favorite programming languages to build apps that let citizens interface with government data in a snap! Strut your stuff with fellow GeoHacks!\r\n\r\nEach team will present what they create, and an expert panel will select the winners of awesome prizes and an opportunity to present on stage to thousands of cohorts. \r\n\r\nFood and drink will be provided to each team that participates.\r\n\r\nRegister now: [Esri Dev Summit Hackathon 2014](http://esriurl.com/DevSummitHack)",
+    "external_url": "http://www.esri.com/events/devsummit",
+    "state": "complete",
+    "start_time": "2014-03-09T20:00:00Z",
+    "end_time": "2014-03-10T19:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52cef9dbac6182b053000016/original.jpg?1389296088",
+    "students_only": false,
+    "total_hackers": 26,
+    "total_hacks": 8,
+    "location": {
+      "city": "Palm Springs ",
+      "state": "CA",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/esri-dev-summit-hackathon-2014"
+  },
+  {
+    "id": "5314d52eeba6ebc49f000001",
+    "name": "24 Hour - Rentah Hackathon! $$$",
+    "slug": "24-hour-rentah-hackathon-$$$",
+    "description": "Are you interested in getting in at the ground floor with a rapidly expanding tech-startup? Are you .NET and/or C# literate? Help build the marketplace for the new economy while meeting other coders like yourself! Beer! Food! Music! Networking! and Code!\r\n \r\nRentah is part of the emerging collaborative economic paradigm. We connect individuals, business, and freelancers nationwide with goods, services, and spaces in their communities.\r\n\r\nWe are looking to recruit some top-notch developers to join our team.\r\n\r\nCome show your skills at the Rentah HQ in Greenpoint, where we will be hunkering down for a 24 hour hackathon. During this time you will be joined by the folks of Rentah, who will provide good beer, home-cooking, and, just, tons of caffeine.\r\n\r\nFront-end and back-end developers welcome. All present will receive a cash stipend, and potential employment within the company. $100 for participating. $250 for top performers.\r\n \r\nThere is limited space, so send us some information about yourself ASAP!\r\n\r\nEmail: info@rentah.com Call: 718.966.3131\r\n\r\nOur Philosophy : \r\n\r\nhttp://www.youtube.com/watch?v=Xm5ENCTNOA0\r\n\r\nOur Workers :\r\n\r\nhttp://www.youtube.com/watch?v=Lj1e0FRMcJk",
+    "external_url": "www.Rentah.com",
+    "state": "complete",
+    "start_time": "2014-03-08T20:00:00Z",
+    "end_time": "2014-03-09T19:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5314d52eeba6ebc49f000001/original.png?1393874215",
+    "students_only": false,
+    "total_hackers": 3,
+    "total_hacks": 0,
+    "location": {
+      "city": "Brooklyn",
+      "state": "ny",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/24-hour-rentah-hackathon-$$$"
+  },
+  {
+    "id": "531c14564eef4a0f2e000004",
+    "name": "HackSC",
+    "slug": "hacksc",
+    "description": "HackSC - March 7th-9th at USC! Check out http://hacksc.com for all the details!\r\n\r\nHACKERS: Submit your projects here!",
+    "external_url": "hacksc.com",
+    "state": "complete",
+    "start_time": "2014-03-08T05:00:00Z",
+    "end_time": "2014-03-09T17:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/531c14564eef4a0f2e000004/original.png?1394349139",
+    "students_only": false,
+    "total_hackers": 86,
+    "total_hacks": 43,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/hacksc"
+  },
+  {
+    "id": "52d7cb90b73ebc20ae000003",
+    "name": "./hack BSidesPR",
+    "slug": "dot-slash-hack-bsidespr",
+    "description": "Visit http://bsidespr.org for details.  The goal of this hackathon is the promote the development on security related tools, applications or services and server as a preamble to BSidesPR.\r\n\r\nDate:  March 8, 2014\r\n\r\nLocation: Puerto Rico Science Trust (Blimp Headquarters)\r\n\r\nTime: 8am – 8pm\r\n\r\nThis hackathon is sponsored by:\r\n\r\nObsidis Consortia, Inc\r\nGetBlimp.com\r\n\r\n ",
+    "external_url": "http://bsidespr.org/2014/?page_id=82",
+    "state": "complete",
+    "start_time": "2014-03-08T11:59:00Z",
+    "end_time": "2014-03-08T23:59:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52d7cb90b73ebc20ae000003/original.png?1389874061",
+    "students_only": false,
+    "total_hackers": 1,
+    "total_hacks": 0,
+    "location": {
+      "city": "San Juan",
+      "state": "Puerto Rico",
+      "country": "US"
+    },
+    "url": "http://hackerleague.org/hackathons/dot-slash-hack-bsidespr"
+  },
+  {
+    "id": "52fb6913b724dcbc0f000002",
+    "name": "Smart Streets Hackathon",
+    "slug": "smart-streets-hackathon",
+    "description": "Hack, Create have Fun AND win a share of £7,500!\r\n \r\nHack Smart Streets 2014\r\n#HackSmart14\r\nCall for Teams\r\nLancaster University in collaboration with the Smart Streets Project consortium are inviting teams of forward thinking students, researchers, and professional developers from across academia and industry to create innovative ideas, and develop novel digital experiences using new IoT (Internet Of Things) data APIs and services as part of the 'Smart Streets Hackathon' 2014. Participating teams will be given exclusive access to bleeding edge IoT data hubs including the Smart Streets Hub, offering datasets provided by leading highways maintenance industry organisations including Carillion Plc, Balfour Beatty & Mott MacDonald, to innovate and share solutions that address current and future challenges within the highways sector and beyond. \r\n\r\nThursday 6th March\r\n09.30 - Registration and refreshments\r\n10:00 - Brief and introduction to the competition and project partners and Q&A\r\n10:30 - Key note/opening motivational speaker\r\n11:00 - Coding starts!\r\n \r\nThroughout the day there will be breaks, refreshments and talks to help keep energy levels up and to drive creativity!  Members of the Smart Streets team and others involved in the IoT Demonstrator Projects will be on hand throughout the event to give input and encouragement.\r\nAn evening meal will be provided on-site as well as snacks, nibbles and drinks later.\r\n \r\nFriday 7th March\r\n09:00 - Breakfast served, experts available for support \r\n11:00 - Coding stops and teams have a chance to pitch for a range of event awards \r\n \r\nFormat and Awards\r\nTeams will be eligible for several large cash prizes from a prize fund of £7,500 looking at aspects such as data visualisation or mobile/web experience.  Specific prizes will be announced on the day.\r\nAt the end of the 24 hour period teams have the opportunity to pitch their ideas to an expert panel and have a chance to win one of the events awards.  Team wishing to enter for an award need to have developed a software prototype ready to demonstrate in a 5 minute pitch using one or more of the datasets provided from the Smart Streets hub plus a dataset offered by a secondary IoT data hub made available (I-MOVE, STRIDE). \r\n \r\nWhy attend\r\n Hang out with friends, meet other smart people, challenge yourself and test your skills\r\n\r\n Work on projects with people you might not normally collaborate with\r\n\r\nGet access to unique data from IoT data hubs and develop prototype solutions and help inform the design of IoT data services and tools for the future\r\n\r\nHear from IoT hub developer experts and industry data providers/consumers\r\n\r\nLearn about domain challenges and case studies of how IoT data can be applied to develop novel applications\r\n\r\nLearn about the Technology Strategy Board’s work in helping business shape the future of IoT\r\n\r\nDid we mention there is a £7,500 prize fund?\r\n \r\nTeam specifics\r\nTeams can be between 2 and 5 members in size.  Please note though that team sizes may be reduced to a maximum of 3 members should the event be oversubscribed. \r\n \r\nWhat datasets can I expect?\r\nIn addition to having access to range of publically available data sets, at this event you will be given access to data from a range of IoT Demonstrator Hubs such as Smart Street s, I-MOVE and STRIDE.  These hubs provide a variety a range of novel live & historic data in areas such as highways maintenance (road repairs, gritting and drainage cleaning), transportation (local traffic systems, mobile cells)\r\nSample data will be provided to registered applicants 1 week prior to the event to help prepare for the event.\r\n \r\nFAQ\r\n \r\nQ : CAN I SLEEP AT THE VENUE?\r\nA : YES THE VENUE WILL BE OPEN FOR THE DURATION OF THE EVENT, PLEASE BRING A SLEEPING BAG ETC AND YOU CAN KIP DOWN IN THE WORKSHOP ROOMS PROVIDED\r\n \r\nQ : IS THERE ACCOMODATION AVAILABLE?\r\nA : YES; THERE ARE ROOMS AT THE UNIVERSITY AND ADJOINING HOTEL THAT CAN BE BOOKED.  TEAMS MUST DO THIS DIRECT AND DETAILS OF PRICING AND CONTACT DETAILS ARE AVAILBLE UPON REQUEST.\r\n \r\nQ : IS FOOD PROVIDED?\r\nA : YES - FOOD AND REFRESHMENTS WILL BE PROVIDED DURING THE EVENT.\r\n \r\nQ : WHAT EQUIPMENT DO I NEED TO BRING?\r\nA : COMPUTERS WILL NOT BE AVAILABLE AT THE EVENT SO PLEASE BRING YOUR OWN LAPTOP; WiFI WILL BE AVAILABLE BUT PLEASE ALSO BRING AN ETHERNET CABLE WITH YOU.\r\n \r\nQ : WHERE CAN I FIND OUT MORE ABOUT THE IoT DEMONSTRATOR PROJECTS DETAILED HERE?\r\nA : YOU CAN FIND FULL BACKGROUND DETAILS ON ALL 8 DEMONSTRATOR PROJECTS AT:\r\nhttps://connect.innovateuk.org/web/internet-of-things-ecosystem-demonstrator\r\n \r\nFor more information about the event please contact Nick King via email at n.king@lancaster.ac.uk or call on 01524 510447. For more information about the Smart Streets Project please go to www.smartstreetshub.com.",
+    "external_url": " https://hacksmartstreets.eventbrite.co.uk",
+    "state": "complete",
+    "start_time": "2014-03-06T09:30:00Z",
+    "end_time": "2014-03-07T11:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52fb6913b724dcbc0f000002/original.jpg?1392208145",
+    "students_only": false,
+    "total_hackers": 2,
+    "total_hacks": 0,
+    "location": {
+      "city": "Lancaster",
+      "state": "Lancashire",
+      "country": "United Kingdom"
+    },
+    "url": "http://hackerleague.org/hackathons/smart-streets-hackathon"
+  },
+  {
+    "id": "530bacecc22601664a00002e",
+    "name": "Jawbone x Roc Nation @ Raptor House 2014 Hackathon",
+    "slug": "jawbone-x-roc-nation-at-raptor-house-2014-hackathon",
+    "description": "Join us for the Jawbone x Roc Nation @ Raptor House 2014 Hackathon. Come create something that ties together the UP lifestyle with music.\r\n\r\nPrompt\r\nCreate something that ties the UP system with music.\r\n\r\nTiming\r\nFebruary 26th: Announcement of Hackathon prompt\r\nMarch 7th: Submissions Due 9am \r\nMarch 7th: Finalists Announced\r\nMarch 11th at 5pm: Final Judging \r\n\r\nJudges\r\nJim Pallotta, President and Chairman, AS Roma; Chairman and Managing Director Raptor Group; Executive Board Member, Boston Celtics \r\nMegan Quinn, Partner, KPCB \r\nJay Brown, CEO, Roc Nation\r\nTravis Bogard, VP Product Management & Strategy, Jawbone\r\n\r\nPrizing\r\nFour pairs of tickets to a 2014 Live Nation amphitheater concert\r\nTime with Roc Nation and Jawbone employees to help finish out your concept\r\nPrize pack of Jawbone items\r\n\r\n\r\nPlease feel free to use any of the following APIs:\r\nUP API (MANDATORY)\r\nLive Nation Event Data API\r\nSpotify Apps API\r\nSpotify Metadata API\r\nSoundCloud API\r\nTwilio API\r\n7digital API\r\nEcho Nest API\r\nBeatport API\r\nGracenote API\r\nLeap Motion API\r\n\r\n\r\nJudging Criteria: \r\nExecution (1 – 10)\r\nDesign (1 – 10)\r\nAccomplishing the prompt (1 – 10)\r\nPotential Impact (1 – 10)\r\n",
+    "external_url": "",
+    "state": "complete",
+    "start_time": "2014-02-25T23:00:00Z",
+    "end_time": "2014-03-06T07:59:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/530bacecc22601664a00002e/original.png?1393274085",
+    "students_only": false,
+    "total_hackers": 6,
+    "total_hacks": 0,
+    "location": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/jawbone-x-roc-nation-at-raptor-house-2014-hackathon"
+  },
+  {
+    "id": "52f2e25eb22968e66a000010",
+    "name": "Bring Home The Beacon Hackathon",
+    "slug": "bring-home-the-beacon-hackathon",
+    "description": "WHAT?\r\n\r\nAre you ready to break into the hottest, most anticipated technology?\r\nAre you a real hacker or developer looking for a real challenge? Want to join a kickass team?\r\nAre you tired of hackathons where everyone participates just for the prizes, food, and swag?\r\nAre you looking for a hackathon that is the real deal, all killer no filler, all skills no frills?\r\n\r\nThen come to the Bring Home the Beacon Hackathon, the FIRST EVER Beacon hackathon in the world and join the best of the best without all the rest.\r\n\r\nWHY?\r\n\r\nBeacon is a game-changer in connectivity and the next big technology of the future. We want you to think outside the box and explore where you can take this technology by creating real, quality apps.\r\n\r\nWe will be providing various beacons you can work with donated by some awesome companies; also running a few workshops on Saturday and inviting bloggers to come see your apps!\r\n\r\n*****If you want to compete for a cash prize and load up on free food, sit this one out because this event is for passionate creators only; those of you who want to build something cool and geek out on beacons*****\r\n\r\n",
+    "external_url": "beacon.bemyapp.com",
+    "state": "complete",
+    "start_time": "2014-03-01T03:00:00Z",
+    "end_time": "2014-03-03T03:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52f2e25eb22968e66a000010/original.jpg?1391649372",
+    "students_only": false,
+    "total_hackers": 77,
+    "total_hacks": 19,
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/bring-home-the-beacon-hackathon"
+  },
+  {
+    "id": "52f00bfc2027ac6920000008",
+    "name": "CERCS/Intel Hack for Good: Internet of Things for Disaster Recovery",
+    "slug": "cercs-slash-intel-hack-for-good-internet-of-things-for-disaster-recovery",
+    "description": "**RESCHEDULED**  _Due_ _to_ _the_ _weather_, we had to reschedule this hackathon.  Berkeley and Earlham have already done their part, let's make sure GT does its!\r\n\r\n\\-===\r\n\r\nThis will be a Code for Good Hackathon using Intel's newest hardware and software tools for expanding the Internet of Things. It will feature coding on the Galileo board and access to data processing through the Cloud.  The Hackathon will have a Code for Good Theme based on disaster response and recovery. Subject matter expertise will be provided by UNICEF -- including guidance from the Innovation in Humanitarian Action Program at UNICEF as well as UNICEF Chile and South Sudan. \r\n\r\nThis is a simultaneous, multi-site Hack-for-Good event,  with students at UC Berkeley, Earlham College, and Georgia Tech all working on the same platforms.\r\n\r\nAdditionally, the disaster response challenge will be highlighted by Professor Peck from Earlham College, who has more than 25 years real-life experience as a first responder, as well as being the co-organizer for the Earlham site.\r\n\r\nThe Georgia Hackathon will be hosted by Dr. Matthew Wolf, with resources and expertise provided through CERCS.  The Berkeley Hackathon will be hosted by the Intel Software Student Community Manager, Paul Steinberg, in collaboration with the Computer Science Undergraduate Association of Berkeley.\r\n\r\nThis hackathon will take place in Klaus Advanced Computing Building (KACB).  It will begin **March 1st** at 9:00 AM and finish Sunday evening.\r\nIntel will be providing each site with 10 Galileo boards, complete with dev kits (cables, Arduino Uno R3 sensors, and more). Each team of 4-5 students will be able to work with their own board. [Here's a link](http://arduino.cc/en/ArduinoCertified/IntelGalileo#.Uw6W7_RdVQU) with more info about the board, and [here's another one](https://communities.intel.com/docs/DOC-22192) from Intel with beginning tutorial information.\r\n\r\nIntel is also providing prizes and food.  There will be three raffle pools -- those who attend on Saturday, those who attend on Sunday, and those who attend both days.  We'll have Galaxy Tab 3's, Amazon gift certificates, and even some of the Galileo boards to give away!\r\n\r\nCome to learn, come for the food, come for the cool prizes, **come to help those who will be in need**.\r\n\r\n\r\nYou can follow the on-going efforts [over on the cercs-ed activities page](http://cercs-ed.gatech.edu/activities/IoTHackathon_blog_Spring2014) for the hackathon!",
+    "external_url": "",
+    "state": "complete",
+    "start_time": "2014-03-01T14:00:00Z",
+    "end_time": "2014-03-03T02:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52f00bfc2027ac6920000008/original.gif?1391464440",
+    "students_only": true,
+    "total_hackers": 42,
+    "total_hacks": 0,
+    "location": {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/cercs-slash-intel-hack-for-good-internet-of-things-for-disaster-recovery"
+  },
+  {
+    "id": "52efdb776eb046f0e400000b",
+    "name": "2014 Boston Baseball Hack Day",
+    "slug": "2014-boston-baseball-hack-day",
+    "description": "Love creating stuff on your computer and LOVE baseball? Come hack with us!\r\n\r\nRegister now at [TickertLeap](http://boston-baseballhackday.ticketleap.com/2014-boston/)!\r\n\r\nThe third annual **Boston Baseball Hack Day** on March 2nd, 2014, is a fun, friendly one-day hacking competition for baseball fans. \r\n\r\nThe event will be held at the Boston Globe, 135 Morrissey Blvd, Boston, MA, a walking distance from MBTA Red Line \"JFK/UMass\" stop. \r\n\r\nIt is the day where area baseball minds come together and see what cool projects can be created within a limited time. The project could be (but is not limited to) a tool, app, website, or data visualization. Baseball Hack Day is a free event thanks to our generous sponsors.\r\n\r\nFind out more at our webiste: [BaseballHackDay.com](http://baseballhackday.com/). Boston detail is at [BaseballHackDay.com/boston](http://baseballhackday.com/boston). [See what we did last year](http://baseballhackday.com/2013) and [two-years ago](http://baseballhackday.com/2012) to get an idea.\r\n\r\nNew to hack days? Have no fear. There'll be people of all skill levels and skill sets participating. See our resources in [github wiki](https://github.com/baseballhackday/2014-data-and-resources/wiki/Resources-and-ideas,-2014), check out our [inspiraton blog on tumblr](http://baseballhackday.tumblr.com/), and follow us on Twitter [@BaseballHackDay](https://twitter.com/baseballhackday)\r\n\r\nSee [2013 Boston Baseball Hack Day HackerLeague site](https://www.hackerleague.org/hackathons/boston-baseball-hack-day-2013/)",
+    "external_url": "http://www.baseballhackday.com/",
+    "state": "complete",
+    "start_time": "2014-03-02T14:30:00Z",
+    "end_time": "2014-03-02T23:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52efdb776eb046f0e400000b/original.png?1391450992",
+    "students_only": false,
+    "total_hackers": 0,
+    "total_hacks": 0,
+    "location": {
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/2014-boston-baseball-hack-day"
+  },
+  {
+    "id": "530bfd8b8242a98b56000007",
+    "name": "Citrus Hack",
+    "slug": "citrus-hack",
+    "description": "Come out and join us as we hack away for the Inland Empire's first ever Collegiate Hackathon! Citrus Hack is going to be held within the UCR campus. It is a 42-hour event that starts on February 28th at 6:00 pm - March 2nd 12:00 pm. All students are welcome and are able to participate. So go ahead and signup to work on an awesome project!",
+    "external_url": "http://citrushack.com/",
+    "state": "complete",
+    "start_time": "2014-03-01T02:00:00Z",
+    "end_time": "2014-03-02T21:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/530bfd8b8242a98b56000007/original.png?1393294722",
+    "students_only": false,
+    "total_hackers": 23,
+    "total_hacks": 11,
+    "location": {
+      "city": "Riverside",
+      "state": "California",
+      "country": "United States of America"
+    },
+    "url": "http://hackerleague.org/hackathons/citrus-hack"
+  },
+  {
+    "id": "5308e7c71e8923b0cb000021",
+    "name": "HackNC",
+    "slug": "hacknc",
+    "description": "Kicking off the 2014 Southeast hackathon season.",
+    "external_url": "http://hacknc.us",
+    "state": "complete",
+    "start_time": "2014-03-01T18:30:00Z",
+    "end_time": "2014-03-02T18:30:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5308e7c71e8923b0cb000021/original.png?1393092547",
+    "students_only": true,
+    "total_hackers": 121,
+    "total_hacks": 49,
+    "location": {
+      "city": "Chapel Hill",
+      "state": "NC",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/hacknc"
+  },
+  {
+    "id": "53114796efa578dbf0000004",
+    "name": "Take It Back-athon",
+    "slug": "take-it-back-athon",
+    "description": "![Cats Meow Meowt](https://github-camo.global.ssl.fastly.net/31ca597250c2a37e82fdac0469eaf25600784522/687474703a2f2f6661726d392e737461746963666c69636b722e636f6d2f383432322f373733383133383130385f663635626565616235302e6a7067)\r\n\r\nA hackathon for kicks and giggles! Both amateurs and pros most welcome. Take It Back-athon is a different kind of independent hackathon, returning to the days of coding for fun. People of any gender, race or condition are encouraged to attend, and cooperation is stressed over competition.",
+    "external_url": "http://takeitbackathon.com/",
+    "state": "complete",
+    "start_time": "2014-03-01T18:00:00Z",
+    "end_time": "2014-03-02T03:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/53114796efa578dbf0000004/original.jpg?1393641364",
+    "students_only": false,
+    "total_hackers": 9,
+    "total_hacks": 6,
+    "location": {
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "United States"
+    },
+    "url": "http://hackerleague.org/hackathons/take-it-back-athon"
+  },
+  {
+    "id": "52a82dd1bd5a7ea059000004",
+    "name": "Hackomotive",
+    "slug": "hackomotive",
+    "description": "Hackomotive is a three-day competition between innovative teams who are on the path to create a significantly better car shopping experience. In an inspiring setting, with guidance from motivational speakers and industry experts, the participants will further develop their ideas into prototypes for products and services that could make a real difference for car shoppers. On the last afternoon, the teams will present their prototypes to the event’s judges in a \"Shark Tank\"-style format, competing for three cash prizes. At least one winning entrant will be eligible to have its idea accelerated by Edmunds.com.",
+    "external_url": "http://www.hackomotive.com/",
+    "state": "complete",
+    "start_time": "2014-02-25T16:00:00Z",
+    "end_time": "2014-02-28T04:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52a82dd1bd5a7ea059000004/original.jpeg?1386753482",
+    "students_only": false,
+    "total_hackers": 10,
+    "total_hacks": 0,
+    "location": {
+      "city": "Santa Monica",
+      "state": "CA",
+      "country": "USA"
+    },
+    "url": "http://hackerleague.org/hackathons/hackomotive"
+  },
+  {
+    "id": "5308fbc5209d0949a200001e",
+    "name": "Music Tech Fest Wellington",
+    "slug": "music-tech-fest-wellington",
+    "description": "We’re coming to Wellington to hold Music Tech Fest as part of Sounds Aotearoa Market at the Macs Function Centre from the 26th to the 28th of February, thanks to The British Council and The New Zealand Music Commission.\r\n\r\nWe’re going to host a music hackathon as part of that - and we’d love you to be there.  We have room for around 20 hackers - so if you’re a coder, maker, circuit bender, developer or music technologist, and you want to get your hands and ears dirty - then sign up and come and join us.\r\n\r\nWe have snacks and cool, piratey t-shirts for everyone involved, and there will be prizes for the hack challenges.\r\n\r\nThere’s a short highlights video at http://musictechfest.org that gives an overview of the sort of thing that happens at a Music Tech Fest.\r\n\r\nWe’re bringing one of our star UK music hackers, Adam John Williams with us, and we’re going to be teaming up with some of our favourite kiwi musicians and companies to make some amazing sounds, imaginative tools and strange machines. \r\n\r\nThe hackathon kicks off with a meeting and briefing on Wednesday 26th, and the challenges begin on Thursday. Presentations of the hacks and prizes happen on Friday 28th.\r\n\r\nWe’d love for you to join us.",
+    "external_url": "attending.io/events/music-tech-fest-hackathon/",
+    "state": "complete",
+    "start_time": "2014-02-25T23:00:00Z",
+    "end_time": "2014-02-28T04:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/5308fbc5209d0949a200001e/original.jpg?1393097665",
+    "students_only": false,
+    "total_hackers": 6,
+    "total_hacks": 5,
+    "location": {
+      "city": "Wellington",
+      "state": "North Island",
+      "country": "New Zealand"
+    },
+    "url": "http://hackerleague.org/hackathons/music-tech-fest-wellington"
+  },
+  {
+    "id": "52d986716939c8447100000c",
+    "name": "Sony SmartWatch 2 Hackathon - WIPJam@MWC14",
+    "slug": "sony-smartwatch-2-hackathon-wipjam-at-mwc14",
+    "description": "**NOTE: In order to participate in this hackathon, you must be registered for [WIPJam@MWC](http://wip.org/wip-event/wipjam-mwc14/).**\r\n\r\nCome hack the Sony SmartWatch 2 at WIPJam@MWC14 in Barcelona! Developing for the Sony SmartWatch2 is really easy!\r\n \r\nJust head over to [the Developer World website](http://developer.sonymobile.com/knowledge-base/tutorials/android_tutorial/how-to-create-an-app-extension-for-sony-smartwatch-2/). There you will learn what you need to get started with your app, including:\r\n* How to set up your environment\r\n* Where to find sample code and API references\r\n* How to test and verify your app\r\n* How to properly publish your app on Google Play\r\n\r\nWe're looking for the coolest apps that make use of all the fantastic functionality available on the SmartWatch 2, and we'll have Sony Xperia devices for the winners.\r\n \r\nSee you at the hack!\r\n \r\nSony Developer Team",
+    "external_url": "http://wip.org/wip-event/wipjam-mwc14/#hackathon",
+    "state": "complete",
+    "start_time": "2014-02-24T16:30:00Z",
+    "end_time": "2014-02-26T13:20:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52d986716939c8447100000c/original.jpg?1389987438",
+    "students_only": false,
+    "total_hackers": 88,
+    "total_hacks": 15,
+    "location": {
+      "city": "Barcelona",
+      "state": "Catalonia",
+      "country": "Spain"
+    },
+    "url": "http://hackerleague.org/hackathons/sony-smartwatch-2-hackathon-wipjam-at-mwc14"
+  },
+  {
+    "id": "52deaf3aa0723d5f67000004",
+    "name": "Intel XDK and Mashery-powered APIs Hackathon - WIPJam@MWC14",
+    "slug": "intel-xdk-and-mashery-powered-apis-hackathon-wipjam-at-mwc14",
+    "description": "**_In order to participate in this hackathon, you must be registered for [WIPJam@MWC](http://wip.org/wip-event/wipjam-mwc14/)._**\r\n\r\n[![EC3 - Mashery API Network ](http://content.developer.mashery.com.s3.amazonaws.com/hackerleague/images/hero2.png)](http://dev.mashery.com)\r\n\r\n#### _Hey Developers at WIP Jam 2014, mashup Mashery APIs with Intel XDK!_\r\n\r\nNavigate dozens of [Mashery powered APIs](http://developer.mashery.com), including [ESPN](http://developer.espn.com), [Crunchbase](http://developer.crunchbase.com), [Hotwire](http://developer.hotwire.com), [Edmunds.com](http://developer.edmunds.com), [Rotten Tomatoes](http://developer.rottentomatoes.com), with a single sign-in using the [Mashery API Explorer](http://developer.mashery.com/iodocs). \r\n\r\nMashup the Mashery APIs with [Intel XDK](http://xdk-software.intel.com) to build Cross-Platform Mobile apps. Get started building an HTML5 mobile app quickly by downloading the Intel XDK and using embedded Mashery sample apps for RESTful APIs such as Hotwire, Rotten Tomatoes, World Weather Online, and many more. \r\n\r\n#### What is the Mashery API Network?\r\n\r\nThe Mashery API Network allows you to register once and gain access to 40+ Mashery-powered RESTful APIs with a single sign-on. With over 245,000 developers and 86,000 active applications, the Mashery API Network helps developers get started with APIs quickly and overcome common pain points during app development. \r\n\r\nGet to know the [best API evangelism team](http://masherydev.tumblr.com) in the business. Mashery's Developer Evangelists (meet [@mansillaDev](http://twitter.com/mansilladev) and [@amit](://twitter.com/amit)) would be on the ground at WIP Jam Hackathon to help you build some awesome apps. \r\n\r\n#### What is Intel XDK?\r\n\r\nIntel XDK is a cross-platform mobile development toolkit that allosw you to build Android, iOS and Windows 8 apps using standard web frameworks. If you can write code in HTML5, CSS3 and JavaScript*, you can use the Intel XDK to build an HTML5 web app or a hybrid app for all of the major app stores.\r\n\r\nYou can download the Intel XDK [here](http://xdk-software.intel.com)\r\n\r\n#### What APIs are available from Mashery?\r\nPlenty. Here's a [complete list of APIs](http://developer.mashery.com/apis) you have access to over the weekend. Hack away!\r\n\r\n---------------------------------------------------------\r\n\r\n#### Where do I start?\r\nJust head over to http://developer.mashery.com/apis. Sign in using Mashery ID. Reach out to @MasheryDev if any questions. \r\n\r\nTo learn more about Intel XDK, head [here](http://xdk-software.intel.com).\r\n\r\n#### Tools to get you started\r\n\r\n* **Try out our API Explorer**: where you can play with and test calls on some of our public APIs before heavy-duty coding using our I/O Docs interactive documentation tool. \r\n* **Open Source Tools & Sample Apps on [GitHub](http://mashery.github.com/)**: - Check out our GitHub – home of our developer tools, including our Intel XDK HTML5 Sample Apps and our open source I/O Docs project that you're welcome to contribute to. \r\n* **Intel XDK Code Samples**: Get started with Mashery QuickStart API Tutorials [Hotwire](http://software.intel.com/en-us/html5/articles/integrating-apis-with-xdk-hotwire-sample-app), \r\n[Rotten Tomatoes](http://software.intel.com/en-us/html5/articles/integrating-apis-with-xdk-rottentomatoes-sample-app), [World Weather Online](http://software.intel.com/en-us/html5/articles/integrating-apis-with-xdk-worldweatheronline-sample-app)\r\n* **App Gallery**: Not sure what to build? Get inspired by browsing through our [App Showcase](http://mashery.appstores.com/).\r\n\r\n---------------------------------------------------------\r\n\r\n#### How to Enter\r\n\r\n* In order to participate in this hackathon, you must be registered for [WIPJam@MWC](http://wip.org/wip-event/wipjam-mwc14/). Then signup for a Hacker League account here and submit your project.\r\n* [Register an account](https://www.hackerleague.org/sign_up) on this site and [join the Intel XDK and Mashery-powered APIs Hackathon - WIPJam@MWC14](https://www.hackerleague.org/hackathons/intel-xdk-and-mashery-powered-apis-hackathon-wipjam-at-mwc14/participations/new)\r\n* Finally, [submit your team's project &raquo;](https://www.hackerleague.org/hackathons/intel-xdk-and-mashery-powered-apis-hackathon-wipjam-at-mwc14/hacks/new). \r\n\r\n---------------------------------------------------------\r\n\r\n#### Want More?\r\nDiscover new events and find out where you can meet up with us via our [Developer Events Calendar](http://developer.mashery.com/events). If you're looking to attend a hackathon, join us at one of the 60+ events we annually attend across the globe.\r\n  \r\nFollow our hackathon circuit and other dev goodness on our Mashery developer blog and [@MasheryDev](http://twitter.com/masherydev) twitter.\r\n\r\n---------------------------------------------------------\r\n\r\nDon’t miss out on our special WIPJam session “Solve Social Problems with Code through the Intel \"Code for Good\" Program” on Monday, February 24 at 9:15-10am in Hall M5, Room 6. Hear from nonprofit experts about how you can make a difference in the world through software. Find a purpose for your hacking, and help the Intel “Code for Good” program connect and enrich the lives of every person on earth. http://software.intel.com/codeforgood.",
+    "external_url": "http://wip.org/wip-event/wipjam-mwc14/#hackathon",
+    "state": "complete",
+    "start_time": "2014-02-24T18:00:00Z",
+    "end_time": "2014-02-26T13:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52deaf3aa0723d5f67000004/original.jpg?1390325560",
+    "students_only": false,
+    "total_hackers": 69,
+    "total_hacks": 7,
+    "location": {
+      "city": "Barcelona",
+      "state": "Catalonia",
+      "country": "Spain"
+    },
+    "url": "http://hackerleague.org/hackathons/intel-xdk-and-mashery-powered-apis-hackathon-wipjam-at-mwc14"
+  },
+  {
+    "id": "52f542567f2419941200000e",
+    "name": "Adopt An Amazon Cross Platform Service - WIPJam@MWC14  ",
+    "slug": "adopt-an-amazon-cross-platform-service-wipjam-at-mwc14",
+    "description": "**NOTE: In order to participate in this hackathon, you must be registered for [WIPJam@MWC](http://wip.org/wip-event/wipjam-mwc14/).**\r\n\r\nAmazon’s developer program offers a variety of services to help you build apps quickly, engage your users, and monetize.  You can monetize with services like In-App Purchasing, Mobile Ads, or Mobile Associates, sync game state to the cloud with Gamecircle, and understand and improve effectiveness of your app design with Analytics and A/B Testing. Plus, many of our services are cross-platform, supporting both iOS and Android, including apps submitting to Google Play.\r\n\r\nHow To Participate:\r\n\r\nFor this hackathon, we are looking for developers who implement one or more of our services in their app or game distributed on any platform. Looking for places to start? How about picking one of these ideas:\r\n\r\n-  Add Amazon Analytics to your app or game https://developer.amazon.com/public/apis/manage/analytics\r\n\r\n-  Implement Amazon Mobile Associates API to your app\r\nor game https://developer.amazon.com/public/apis/earn/mobile-associates/docs/overview\r\n\r\n-  Implement achievements into your game with GameCircle https://developer.amazon.com/public/apis/engage/gamecircle/docs/achievements  \r\n\r\n-  Add a leaderboard to your game with GameCircle https://developer.amazon.com/public/apis/engage/gamecircle/docs/leaderboards\r\n\r\n-  Take advantage of GameCircle’s Whispersync for your game’s save data https://developer.amazon.com/public/apis/engage/gamecircle/docs/whispersync\r\n\r\n-  Add our Mobile Ads API to monetize your apps with great eCPM and high-quality ads https://developer.amazon.com/public/apis/earn/mobile-ads\r\n\r\nTechnologies\r\niOS, Objective-C, Android, Java\r\n\r\nJudging Criteria\r\n- Best overall use of an Amazon Cross Platform Service\r\n- Best integration of Amazon Cross Platform Service in app or game\r\n- Extra points for combining multiple Amazon Cross Platform Services together.\r\n\r\nQualifications:\r\n\r\nTo qualify for this hackathon, you will need to be able to demonstrate at least one of our services has been integrated into an app or game that didn’t have that service prior to the event. We will be looking for\r\nthe most creative implementations of our services as well as people who combine multiple services together for better results. You can still qualify by only using a single service or feature.\r\n\r\nPrizes: 1st Place receives Kindle Fire HDX 8.9” device for every team member (limit 5)\r\n \r\n2nd Place receives Kindle Fire HDX 7” device for every team member (limit 5)",
+    "external_url": "http://wip.org/wip-event/wipjam-mwc14/",
+    "state": "complete",
+    "start_time": "2014-02-24T18:00:00Z",
+    "end_time": "2014-02-26T13:00:00Z",
+    "logo": "https://s3.amazonaws.com/hackerleague-production/organizations/logos/52f542567f2419941200000e/original.jpg?1391805010",
+    "students_only": false,
+    "total_hackers": 33,
+    "total_hacks": 6,
+    "location": {
+      "city": "Barcelona",
+      "state": "Catalonia",
+      "country": "Spain"
+    },
+    "url": "http://hackerleague.org/hackathons/adopt-an-amazon-cross-platform-service-wipjam-at-mwc14"
+  }
+]

@@ -1,0 +1,21 @@
+== Infinite Scrolling Demo
+
+This is a barebones Rails app that demostrates the use of pagination to render just what's visible to the user and expand it as the user scrolls.
+
+== Installation
+
+Clone it:
+    git clone git@github.com:gon/hl.git
+
+Bundle it:
+    cd hl
+    bundle
+
+Set up the database:
+    rake db:setup
+
+Run it:
+    rails s
+
+View it:
+    http://localhost:3000/

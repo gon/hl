@@ -1,6 +1,6 @@
 == Infinite Scrolling Demo
 
-This is a barebones Rails app that demostrates the use of pagination to render just what's visible to the user and expand it as the user scrolls.
+This is a barebones Rails app that demonstrates the use of pagination to render just what's visible to the user and expand it as the user scrolls down below the fold.
 
 == Installation
 

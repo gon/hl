@@ -5,7 +5,6 @@ gem 'rails', '4.0.2'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-gem 'sqlite3'
 gem 'will_paginate', '~> 3.0.5'
 gem 'hashie'
 
@@ -41,6 +40,14 @@ gem 'jbuilder', '~> 1.2'
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
+end
+
+group :test, :development do
+  gem 'sqlite3'
+end
+
+group :production do
+  gem 'mysql2'
 end
 
 gem 'rails_12factor', group: :production

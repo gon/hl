@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-InfiniteScroll::Application.load_tasks
+HackerLeague::Application.load_tasks
